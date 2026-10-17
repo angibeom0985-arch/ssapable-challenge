@@ -1,0 +1,316 @@
+{
+  "startedAt": "2026-10-17T08:12:56.503Z",
+  "total": 51,
+  "submitted": [
+    {
+      "num": "01",
+      "lessonId": "3",
+      "href": "https://ssapable.com/learn/ai-agent/3",
+      "submittedAt": "2026-10-17T08:13:00.061Z"
+    },
+    {
+      "num": "04",
+      "lessonId": "6",
+      "href": "https://ssapable.com/learn/ai-agent/6",
+      "submittedAt": "2026-10-17T08:13:04.458Z"
+    },
+    {
+      "num": "05",
+      "lessonId": "7",
+      "href": "https://ssapable.com/learn/ai-agent/7",
+      "submittedAt": "2026-10-17T08:13:08.742Z"
+    },
+    {
+      "num": "06",
+      "lessonId": "8",
+      "href": "https://ssapable.com/learn/ai-agent/8",
+      "submittedAt": "2026-10-17T08:13:12.861Z"
+    },
+    {
+      "num": "08",
+      "lessonId": "10",
+      "href": "https://ssapable.com/learn/ai-agent/10",
+      "submittedAt": "2026-10-17T08:13:16.958Z"
+    },
+    {
+      "num": "09",
+      "lessonId": "11",
+      "href": "https://ssapable.com/learn/ai-agent/11",
+      "submittedAt": "2026-10-17T08:13:21.425Z"
+    },
+    {
+      "num": "10",
+      "lessonId": "12",
+      "href": "https://ssapable.com/learn/ai-agent/12",
+      "submittedAt": "2026-10-17T08:13:25.507Z"
+    },
+    {
+      "num": "11",
+      "lessonId": "13",
+      "href": "https://ssapable.com/learn/ai-agent/13",
+      "submittedAt": "2026-10-17T08:13:29.608Z"
+    },
+    {
+      "num": "13",
+      "lessonId": "15",
+      "href": "https://ssapable.com/learn/ai-agent/15",
+      "submittedAt": "2026-10-17T08:13:33.741Z"
+    },
+    {
+      "num": "16",
+      "lessonId": "18",
+      "href": "https://ssapable.com/learn/ai-agent/18",
+      "submittedAt": "2026-10-17T08:13:37.745Z"
+    },
+    {
+      "num": "18",
+      "lessonId": "20",
+      "href": "https://ssapable.com/learn/ai-agent/20",
+      "submittedAt": "2026-10-17T08:13:41.774Z"
+    },
+    {
+      "num": "19",
+      "lessonId": "21",
+      "href": "https://ssapable.com/learn/ai-agent/21",
+      "submittedAt": "2026-10-17T08:13:46.057Z"
+    },
+    {
+      "num": "20",
+      "lessonId": "22",
+      "href": "https://ssapable.com/learn/ai-agent/22",
+      "submittedAt": "2026-10-17T08:13:50.229Z"
+    },
+    {
+      "num": "21",
+      "lessonId": "23",
+      "href": "https://ssapable.com/learn/ai-agent/23",
+      "submittedAt": "2026-10-17T08:13:54.523Z"
+    },
+    {
+      "num": "25",
+      "lessonId": "27",
+      "href": "https://ssapable.com/learn/ai-agent/27",
+      "submittedAt": "2026-10-17T08:13:58.955Z"
+    },
+    {
+      "num": "29",
+      "lessonId": "31",
+      "href": "https://ssapable.com/learn/ai-agent/31",
+      "submittedAt": "2026-10-17T08:14:03.807Z"
+    },
+    {
+      "num": "31",
+      "lessonId": "33",
+      "href": "https://ssapable.com/learn/ai-agent/33",
+      "submittedAt": "2026-10-17T08:14:08.405Z"
+    },
+    {
+      "num": "32",
+      "lessonId": "34",
+      "href": "https://ssapable.com/learn/ai-agent/34",
+      "submittedAt": "2026-10-17T08:14:14.140Z"
+    },
+    {
+      "num": "33",
+      "lessonId": "35",
+      "href": "https://ssapable.com/learn/ai-agent/35",
+      "submittedAt": "2026-10-17T08:14:18.506Z"
+    },
+    {
+      "num": "34",
+      "lessonId": "36",
+      "href": "https://ssapable.com/learn/ai-agent/36",
+      "submittedAt": "2026-10-17T08:14:23.229Z"
+    },
+    {
+      "num": "35",
+      "lessonId": "37",
+      "href": "https://ssapable.com/learn/ai-agent/37",
+      "submittedAt": "2026-10-17T08:14:27.243Z"
+    },
+    {
+      "num": "36",
+      "lessonId": "38",
+      "href": "https://ssapable.com/learn/ai-agent/38",
+      "submittedAt": "2026-10-17T08:14:31.810Z"
+    },
+    {
+      "num": "37",
+      "lessonId": "39",
+      "href": "https://ssapable.com/learn/ai-agent/39",
+      "submittedAt": "2026-10-17T08:14:35.772Z"
+    },
+    {
+      "num": "38",
+      "lessonId": "40",
+      "href": "https://ssapable.com/learn/ai-agent/40",
+      "submittedAt": "2026-10-17T08:14:40.121Z"
+    },
+    {
+      "num": "39",
+      "lessonId": "41",
+      "href": "https://ssapable.com/learn/ai-agent/41",
+      "submittedAt": "2026-10-17T08:14:44.471Z"
+    },
+    {
+      "num": "40",
+      "lessonId": "42",
+      "href": "https://ssapable.com/learn/ai-agent/42",
+      "submittedAt": "2026-10-17T08:14:48.722Z"
+    },
+    {
+      "num": "41",
+      "lessonId": "43",
+      "href": "https://ssapable.com/learn/ai-agent/43",
+      "submittedAt": "2026-10-17T08:14:52.721Z"
+    },
+    {
+      "num": "42",
+      "lessonId": "44",
+      "href": "https://ssapable.com/learn/ai-agent/44",
+      "submittedAt": "2026-10-17T08:14:56.987Z"
+    },
+    {
+      "num": "43",
+      "lessonId": "45",
+      "href": "https://ssapable.com/learn/ai-agent/45",
+      "submittedAt": "2026-10-17T08:15:00.992Z"
+    },
+    {
+      "num": "44",
+      "lessonId": "46",
+      "href": "https://ssapable.com/learn/ai-agent/46",
+      "submittedAt": "2026-10-17T08:15:05.121Z"
+    },
+    {
+      "num": "47",
+      "lessonId": "49",
+      "href": "https://ssapable.com/learn/ai-agent/49",
+      "submittedAt": "2026-10-17T08:15:09.321Z"
+    },
+    {
+      "num": "48",
+      "lessonId": "50",
+      "href": "https://ssapable.com/learn/ai-agent/50",
+      "submittedAt": "2026-10-17T08:15:13.360Z"
+    },
+    {
+      "num": "49",
+      "lessonId": "51",
+      "href": "https://ssapable.com/learn/ai-agent/51",
+      "submittedAt": "2026-10-17T08:15:17.425Z"
+    },
+    {
+      "num": "50",
+      "lessonId": "52",
+      "href": "https://ssapable.com/learn/ai-agent/52",
+      "submittedAt": "2026-10-17T08:15:21.621Z"
+    },
+    {
+      "num": "52",
+      "lessonId": "54",
+      "href": "https://ssapable.com/learn/ai-agent/54",
+      "submittedAt": "2026-10-17T08:15:25.872Z"
+    },
+    {
+      "num": "53",
+      "lessonId": "55",
+      "href": "https://ssapable.com/learn/ai-agent/55",
+      "submittedAt": "2026-10-17T08:15:30.155Z"
+    },
+    {
+      "num": "54",
+      "lessonId": "56",
+      "href": "https://ssapable.com/learn/ai-agent/56",
+      "submittedAt": "2026-10-17T08:15:34.237Z"
+    },
+    {
+      "num": "55",
+      "lessonId": "57",
+      "href": "https://ssapable.com/learn/ai-agent/57",
+      "submittedAt": "2026-10-17T08:15:38.411Z"
+    },
+    {
+      "num": "56",
+      "lessonId": "58",
+      "href": "https://ssapable.com/learn/ai-agent/58",
+      "submittedAt": "2026-10-17T08:15:42.704Z"
+    },
+    {
+      "num": "59",
+      "lessonId": "61",
+      "href": "https://ssapable.com/learn/ai-agent/61",
+      "submittedAt": "2026-10-17T08:15:46.820Z"
+    },
+    {
+      "num": "61",
+      "lessonId": "63",
+      "href": "https://ssapable.com/learn/ai-agent/63",
+      "submittedAt": "2026-10-17T08:15:51.158Z"
+    },
+    {
+      "num": "62",
+      "lessonId": "64",
+      "href": "https://ssapable.com/learn/ai-agent/64",
+      "submittedAt": "2026-10-17T08:15:55.224Z"
+    },
+    {
+      "num": "63",
+      "lessonId": "65",
+      "href": "https://ssapable.com/learn/ai-agent/65",
+      "submittedAt": "2026-10-17T08:15:59.474Z"
+    },
+    {
+      "num": "65",
+      "lessonId": "67",
+      "href": "https://ssapable.com/learn/ai-agent/67",
+      "submittedAt": "2026-10-17T08:16:03.545Z"
+    },
+    {
+      "num": "68",
+      "lessonId": "70",
+      "href": "https://ssapable.com/learn/ai-agent/70",
+      "submittedAt": "2026-10-17T08:16:07.622Z"
+    },
+    {
+      "num": "69",
+      "lessonId": "71",
+      "href": "https://ssapable.com/learn/ai-agent/71",
+      "submittedAt": "2026-10-17T08:16:11.585Z"
+    },
+    {
+      "num": "72",
+      "lessonId": "75",
+      "href": "https://ssapable.com/learn/ai-agent/75",
+      "submittedAt": "2026-10-17T08:16:15.535Z"
+    },
+    {
+      "num": "74",
+      "lessonId": "77",
+      "href": "https://ssapable.com/learn/ai-agent/77",
+      "submittedAt": "2026-10-17T08:16:19.719Z"
+    },
+    {
+      "num": "75",
+      "lessonId": "78",
+      "href": "https://ssapable.com/learn/ai-agent/78",
+      "submittedAt": "2026-10-17T08:16:23.721Z"
+    },
+    {
+      "num": "77",
+      "lessonId": "80",
+      "href": "https://ssapable.com/learn/ai-agent/80",
+      "submittedAt": "2026-10-17T08:16:28.241Z"
+    },
+    {
+      "num": "78",
+      "lessonId": "81",
+      "href": "https://ssapable.com/learn/ai-agent/81",
+      "submittedAt": "2026-10-17T08:16:32.335Z"
+    }
+  ],
+  "alreadySubmitted": [],
+  "failed": [],
+  "myChallengesSummary": "AI쌉파써블\n강의\n내 비즈니스 모델\nNEW\n단어장\n게시판\nEN\n브이메이크\n🎓\n수강생\n로그아웃\n← 마이페이지\n🏆 내 챌린지\n\n전체 51/51 제출 · 댓글을 남기면 제출로 인정됩니다.\n\n“해줘” 강의 🎉\n51/51(100%)\n\n✓ 이 강의의 챌린지를 모두 제출했어요. 수고하셨습니다!\n\n🔄 2기 챌린지 기준으로 새로 시작했어요\n\n9월 14일(월) 오후 6시부터 남긴 댓글이 위 진행 현황에 집계됩니다. 1기 때 남기신 댓글은 지워지지 않았고 강의 화면에 그대로 남아 있어요.\n\n✓\nPart 1. 나만의 비즈니스 모델 만들기\n1. 1일 차 ) 내가 할 수 있는 비즈니스 모델(수익화 방법)은 뭘까?\n\n제출함 · 10월 17일\n\n다시 보기\n✓\nPart 1. 나만의 비즈니스 모델 만들기\n4. 1일 차 ) 어떤 걸 자동화 할까?\n\n제출함 · 10월 17일\n\n다시 보기\n✓\nPart 1. 나만의 비즈니스 모델 만들기\n5. 1일 차 ) 내 수익 모델이 궁금하다면\n\n제출함 · 10월 17일\n\n다시 보기\n✓\nPart 1. 나만의 비즈니스 모델 만들기\n6. 1일 차 ) 이건 알고 시작하세요\n\n제출함 · 10월 17일\n\n다시 보기\n✓\nPart 2. 내가 원하는 것을 현실화하세요\n8. 1일 차 ) 사람들에게 월 9900원 받으려면?\n\n제출함 · 10월 17일\n\n다시 보기\n✓\nPart 2. 내가 원하는 것을 현실화하세요\n9. 1일 차 ) 이 공간이 당신에게 자유를 줄겁니다.\n\n제출함 · 10월 17일\n\n다시 보기\n✓\nPart 2. 내가 원하는 것을 현실화하세요\n10. 2일 차 ) 집 밖에서도 가능한 \"영상 편집 자동으로 해줘\"\n\n제출함 · 10월 17일\n\n다시 보기\n✓\nPart 2. 내가 원하는 것을 현실화하세요\n11. 2일 차 )가상 머신(VM)을 응용하세요\n\n제출함 · 10월 17일\n\n다시 보기\n✓\nPart 2. 내가 원하는 것을 현실화하세요\n13. 3일 차 ) Codex (GPT -6 astra) 가 다해주는 사이트 딸깍\n\n제출함 · 10월 17일\n\n다시 보기\n✓\nPart 2. 내가 원하는 것을 현실화하세요\n16. 3일 차 ) Codex (GPT -6 astra) 가 다해주는 딸깍 (2)\n\n제출함 · 10월 17일\n\n다시 보기\n✓\nPart 2. 내가 원하는 것을 현실화하세요\n18. 4일 차 ) 시작 전 준비사항\n\n제출함 · 10월 17일\n\n다시 보기\n✓\nPart 2. 내가 원하는 것을 현실화하세요\n19. 4일 차 ) \"이런 사이트 만들어줘\"를 말 대신\n\n제출함 · 10월 17일\n\n다시 보기\n✓\nPart 2. 내가 원하는 것을 현실화하세요\n20. 4일 차 )왜 내 사이트에서 내 지식을 팔아야하는가\n\n제출함 · 10월 17일\n\n다시 보기\n✓\nPart 2. 내가 원하는 것을 현실화하세요\n21. 4일 차 )원하는 걸 말해봐\n\n제출함 · 10월 17일\n\n다시 보기\n✓\nPart 2. 내가 원하는 것을 현실화하세요\n25. 4일 차 )필요한 기능은 계속 생깁니다\n\n제출함 · 10월 17일\n\n다시 보기\n✓\nPart 2. 내가 원하는 것을 현실화하세요\n29. 5일 차 ) 클",
+  "finishedAt": "2026-10-17T08:16:38.185Z"
+}
