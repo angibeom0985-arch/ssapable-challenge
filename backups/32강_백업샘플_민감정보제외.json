@@ -1,0 +1,51 @@
+{
+  "exportedAt": "2026-10-17T16:45:00+09:00",
+  "source": "conja-starter-admin-backup",
+  "excludedSensitiveFields": [
+    "password_hash",
+    "session_token",
+    "api_secret",
+    "payment_webhook_secret",
+    "billing_key"
+  ],
+  "tables": {
+    "members": [
+      {
+        "id": 1,
+        "email": "reader@example.com",
+        "role": "member",
+        "created_at": "2026-10-17T02:35:00Z"
+      },
+      {
+        "id": 2,
+        "email": "vip@example.com",
+        "role": "member",
+        "created_at": "2026-10-17T03:10:00Z"
+      }
+    ],
+    "orders": [
+      {
+        "id": "ord_20261017_01",
+        "member_id": 1,
+        "product": "콘자 스타터팩 올인원 패키지",
+        "amount": 9900,
+        "status": "paid"
+      },
+      {
+        "id": "ord_20261017_02",
+        "member_id": 2,
+        "product": "콘자 스타터팩 올인원 패키지",
+        "amount": 9900,
+        "status": "paid"
+      }
+    ],
+    "entitlements": [
+      {
+        "id": 1,
+        "member_id": 1,
+        "code": "M4VP-****",
+        "active": true
+      }
+    ]
+  }
+}

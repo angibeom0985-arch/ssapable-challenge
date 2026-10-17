@@ -1,0 +1,10 @@
+# 민감 환경변수 및 인증키 제외 (.env 제외 필수 규칙)
+.env
+.env.*
+.dev.vars
+*.pem
+*.key
+secrets/
+node_modules/
+.DS_Store
+Thumbs.db
