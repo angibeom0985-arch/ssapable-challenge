@@ -1,410 +1,373 @@
 [
   {
-    "num": "01",
-    "lessonId": "3",
-    "title": "1일 차 ) 내가 할 수 있는 비즈니스 모델(수익화 방법)은 뭘까?",
-    "href": "https://ssapable.com/learn/ai-agent/3",
-    "mdFile": "01강_독서노트_원씽_프로세스이코노미.md",
-    "comment": "읽은 책: 『원씽(The One Thing)』, 『프로세스 이코노미』, 『부의 추월차선』\n\n가장 큰 도미노 하나(비개발자·1인 창업가의 반복 콘텐츠 제작 및 판매 사이트 구축 자동화)에 집중하고, 에이전트를 개선해 나가는 과정 자체를 자산으로 쌓고 있습니다.\n독서 노트 및 비즈니스 모델 적용 정리: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/01강_독서노트_원씽_프로세스이코노미.md"
-  },
-  {
-    "num": "04",
-    "lessonId": "6",
+    "challengeId": 5,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/5",
     "title": "1일 차 ) 어떤 걸 자동화 할까?",
-    "href": "https://ssapable.com/learn/ai-agent/6",
     "mdFile": "04강_비즈니스_자동화_진단_대화기록.md",
-    "comment": "현재 운영 중인 AI 콘텐츠 제작 도구(콘자튜브·콘자토리) 및 전자책 비즈니스에서 매일 반복되는 업무(인기 소재 발굴, 쇼츠 대본·TTS·렌더링, 결제 후 이용권 자동 발급, 1차 고객 문의 응대)를 분석해 자동화 우선순위를 도출했습니다.\n자동화 진단 대화 및 설계 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/04강_비즈니스_자동화_진단_대화기록.md"
+    "comment": "현재 운영 중인 AI 콘텐츠 제작 도구(데이비 스튜디오·데이비 자동화 도구) 및 전자책 비즈니스에서 매일 반복되는 업무(인기 소재 발굴, 쇼츠 대본·TTS·렌더링, 결제 후 이용권 자동 발급, 1차 고객 문의 응대)를 분석해 자동화 우선순위를 도출했습니다.\n자동화 진단 대화 및 설계 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/04강_비즈니스_자동화_진단_대화기록.md\n\n[정식 1기 v2 개선] 활동명을 **데이비(`@david153.official`)**로 일원화하고, 콘텐츠 자동화 4대 주력 플랫폼(유튜브·스레드·인스타그램·블로그) 기준으로 반복 작업 병목을 재진단했습니다. 영상 싱크(`screen_voice_sync.py`)와 릴스 자동화(`clone_me_reel_builder.py`)를 최우선 자동화 축으로 승격했습니다."
   },
   {
-    "num": "05",
-    "lessonId": "7",
+    "challengeId": 6,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/6",
     "title": "1일 차 ) 내 수익 모델이 궁금하다면",
-    "href": "https://ssapable.com/learn/ai-agent/7",
     "mdFile": "05강_벤치마킹_SNS채널_3선_분석.md",
-    "comment": "학습·벤치마킹용 SNS 채널 3곳입니다.\n1) AI쌉파써블 (쓰레드): https://www.threads.com/@ai_ssapa\n2) 신사임당 (쓰레드): https://www.threads.com/@sinsaimdang.official\n3) 조코딩 (유튜브): https://www.youtube.com/@조코딩\n채널별 후킹·전환 구조 벤치마킹 분석표: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/05강_벤치마킹_SNS채널_3선_분석.md"
+    "comment": "학습·벤치마킹용 SNS 채널 3곳입니다.\n1) AI쌉파써블 (쓰레드): https://www.threads.com/@ai_ssapa\n2) 신사임당 (쓰레드): https://www.threads.com/@sinsaimdang.official\n3) 조코딩 (유튜브): https://www.youtube.com/@조코딩\n채널별 후킹·전환 구조 벤치마킹 분석표: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/05강_벤치마킹_SNS채널_3선_분석.md\n\n[정식 1기 v2 개선] 기존 국내 3선 분석에 더해 해외 고조회수 콘텐츠 자동화 레퍼런스(`Mr omi`, `성공지식백과`, `서찬` 등 12대 벤치마킹 기준)를 추가 해부하고, 데이비 채널의 핵심 포지셔닝('해외·국내 고성과 사례를 숫자로 해부하고 직접 재현')을 반영했습니다."
   },
   {
-    "num": "06",
-    "lessonId": "8",
+    "challengeId": 7,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/7",
     "title": "1일 차 ) 이건 알고 시작하세요",
-    "href": "https://ssapable.com/learn/ai-agent/8",
     "mdFile": "06강_설치및환경점검.md",
-    "comment": "Claude Code 및 ChatGPT(Codex) 데스크톱 앱·CLI 설치 및 로그인 연동 완료했습니다.\n설치 및 연결 테스트 확인 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/06강_Claude_Code_및_Codex_설치확인.png\n환경 점검 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/06강_설치및환경점검.md"
+    "comment": "Claude Code 및 ChatGPT(Codex) 데스크톱 앱·CLI 설치 및 로그인 연동 완료했습니다.\n설치 및 연결 테스트 확인 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/06강_Claude_Code_및_Codex_설치확인.png\n환경 점검 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/06강_설치및환경점검.md\n\n[정식 1기 v2 개선] Claude Code·Codex CLI에 더해 Antigravity 환경, 전역 스킬 디렉터리(`.claude/skills`, `.gemini/skills`), 헤드리스 브라우저(`davie-chrome`) 및 로컬 데스크톱 자동화(`agent-desktop`) 연동까지 최신 작업 환경을 재점검 완료했습니다."
   },
   {
-    "num": "08",
-    "lessonId": "10",
+    "challengeId": 10,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/10",
     "title": "1일 차 ) 사람들에게 월 9900원 받으려면?",
-    "href": "https://ssapable.com/learn/ai-agent/10",
     "mdFile": "08강_API키_발급_및_크레딧_연동확인.md",
-    "comment": "Anthropic(Claude) 및 OpenAI, Gemini API 키 발급과 결제수단 등록·크레딧 충전을 완료하고 `.env`에 안전하게 분리 세팅했습니다.\nAPI 키 발급 확인 화면(마스킹 완료): https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/08강_API키_발급화면.png\n발급 및 환경변수 보안 세팅 내역: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/08강_API키_발급_및_크레딧_연동확인.md"
+    "comment": "Anthropic(Claude) 및 OpenAI, Gemini API 키 발급과 결제수단 등록·크레딧 충전을 완료하고 `.env`에 안전하게 분리 세팅했습니다.\nAPI 키 발급 확인 화면(마스킹 완료): https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/08강_API키_발급화면.png\n발급 및 환경변수 보안 세팅 내역: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/08강_API키_발급_및_크레딧_연동확인.md\n\n[정식 1기 v2 개선] Anthropic·OpenAI·Gemini API 키에 더해 ElevenLabs 전문 보이스 복제 API(`eleven_v4`) 및 YouTube Data/Analytics/Reporting API 프로젝트 구성을 `.env` 분리 원칙으로 갱신 점검했습니다."
   },
   {
-    "num": "09",
-    "lessonId": "11",
+    "challengeId": 11,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/11",
     "title": "1일 차 ) 이 공간이 당신에게 자유를 줄겁니다.",
-    "href": "https://ssapable.com/learn/ai-agent/11",
     "mdFile": "09강_깃허브_저장소_초기화_및_커밋기록.md",
-    "comment": "로컬 작업 환경에서 `CLAUDE.md`, `AGENTS.md`, `.gitignore`(.env 제외)를 구성하고 Git 초기화 후 2회 이상 커밋·푸시를 완료했습니다.\n제출 레포지토리 1 (챌린지 통합 저장소): https://github.com/angibeom0985-arch/ssapable-challenge\n제출 레포지토리 2 (실전 웹사이트 저장소): https://github.com/angibeom0985-arch/conja-starter"
+    "comment": "로컬 작업 환경에서 `CLAUDE.md`, `AGENTS.md`, `.gitignore`(.env 제외)를 구성하고 Git 초기화 후 2회 이상 커밋·푸시를 완료했습니다.\n제출 레포지토리 1 (챌린지 통합 저장소): https://github.com/angibeom0985-arch/ssapable-challenge\n제출 레포지토리 2 (실전 웹사이트 저장소): https://github.com/angibeom0985-arch/conja-starter\n\n[정식 1기 v2 개선] 정식 1기 리브랜딩(`데이비`)과 신규 5개 과제·스킬(`algorithm-analysis-v1`, `algorithm-topics-v1`)을 반영해 버전 관리 이력을 v2로 갱신하고 원격 저장소에 연속 커밋·푸시했습니다."
   },
   {
-    "num": "10",
-    "lessonId": "12",
+    "challengeId": 12,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/12",
     "title": "2일 차 ) 집 밖에서도 가능한 \"영상 편집 자동으로 해줘\"",
-    "href": "https://ssapable.com/learn/ai-agent/12",
     "mdFile": "10강_자동_영상편집_워크플로우.md",
-    "comment": "내가 원하는 영상 편집 워크플로우(대본 검수 → TTS 무음 트리밍 및 -14.9 LUFS 정규화 → FFmpeg 1080x1920 30fps 자막·장면 자동 합성 → Whisper 받아쓰기 대조 검수)를 구축했습니다.\n자동 편집 결과 영상(MP4): https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/10강_테스트편집_결과영상.mp4\n워크플로우 명세서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/10강_자동_영상편집_워크플로우.md"
+    "comment": "내가 원하는 영상 편집 워크플로우(대본 검수 → TTS 무음 트리밍 및 -14.9 LUFS 정규화 → FFmpeg 1080x1920 30fps 자막·장면 자동 합성 → Whisper 받아쓰기 대조 검수)를 구축했습니다.\n자동 편집 결과 영상(MP4): https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/10강_테스트편집_결과영상.mp4\n워크플로우 명세서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/10강_자동_영상편집_워크플로우.md\n\n[정식 1기 v2 개선] 기존 1080×1920 쇼츠 파이프라인에서 나아가 **선(先) PC 화면녹화 × 후(後) 복제음성 실시간 싱크 엔진(`screen_voice_sync.py`)**을 구축해, 핵심 단어 발화 `+0.08s` 타이밍 정렬과 `-14.0 LUFS` 6단 마스터링까지 고도화했습니다."
   },
   {
-    "num": "11",
-    "lessonId": "13",
+    "challengeId": 13,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/13",
     "title": "2일 차 )가상 머신(VM)을 응용하세요",
-    "href": "https://ssapable.com/learn/ai-agent/13",
     "mdFile": "11강_원격_영상편집_자동화_파이프라인.md",
-    "comment": "원격 명령으로 원본 소스를 내려받아 로컬 FFmpeg 파이프라인에서 자동 컷편집·자막 합성·음량 정규화 후 업로드까지 완료하는 파이프라인을 구축했습니다.\n자동 편집 및 업로드 완료 영상(유튜브): https://youtu.be/-0kHCrBp4EE\n결과물 영상 파일 저장소 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/11강_자동편집_완료_샘플.mp4"
+    "comment": "원격 명령으로 원본 소스를 내려받아 로컬 FFmpeg 파이프라인에서 자동 컷편집·자막 합성·음량 정규화 후 업로드까지 완료하는 파이프라인을 구축했습니다.\n자동 편집 및 업로드 완료 영상(유튜브): https://youtu.be/-0kHCrBp4EE\n결과물 영상 파일 저장소 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/11강_자동편집_완료_샘플.mp4\n\n[정식 1기 v2 개선] 단순 컷편집 원격 파이프라인을 롱폼·쇼츠 겸용 구조(09편 5분 51초 `-14.3 LUFS` PC 실전 시연 롱폼 및 롱투숏 자동화 추출 파이프라인)로 확장해 원격·백그라운드 렌더링 안정성을 개선했습니다."
   },
   {
-    "num": "13",
-    "lessonId": "15",
+    "challengeId": 15,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/15",
     "title": "3일 차 ) Codex (GPT -6 astra) 가 다해주는 사이트 딸깍",
-    "href": "https://ssapable.com/learn/ai-agent/15",
     "mdFile": "13강_자동화사이트_및_모바일동선스킬.md",
-    "comment": "1) 내 작업을 자동화해주는 사이트 URL: https://conjatube.gowith153.com 및 https://conja-starter.pages.dev\n2) 앱 탐색 동선 분석 후 재사용 가능하게 만든 스킬(SKILL.md) GitHub 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/skills/mobile-app-flow/SKILL.md"
+    "comment": "1) 내 작업을 자동화해주는 사이트 URL: https://conjatube.gowith153.com 및 https://conja-starter.pages.dev\n2) 앱 탐색 동선 분석 후 재사용 가능하게 만든 스킬(SKILL.md) GitHub 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/skills/mobile-app-flow/SKILL.md\n\n[정식 1기 v2 개선] 서비스 브랜드 표기를 **데이비 스튜디오 / 데이비 스타터팩**으로 통일하고, 모바일·웹 동선 분석 스킬에 헤드리스 브라우저 스냅샷(`snapshot -i -c`) 검증 루틴을 추가했습니다."
   },
   {
-    "num": "16",
-    "lessonId": "18",
+    "challengeId": 18,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/18",
     "title": "3일 차 ) Codex (GPT -6 astra) 가 다해주는 딸깍 (2)",
-    "href": "https://ssapable.com/learn/ai-agent/18",
     "mdFile": "16강_Cloudflare_배포_및_결제연동_보고서.md",
-    "comment": "Cloudflare 배포 및 테스트 결제·웹훅 연동(결제 완료 시 이용권 발급 및 자료실 해금 5종 시나리오 검증)을 완료했습니다.\n업데이트된 사이트 주소: https://conja-starter.pages.dev (메인 서비스: https://conjatube.gowith153.com)\n결제 연동 화면 캡처 및 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/16강_Cloudflare_배포_및_결제연동_보고서.md"
+    "comment": "Cloudflare 배포 및 테스트 결제·웹훅 연동(결제 완료 시 이용권 발급 및 자료실 해금 5종 시나리오 검증)을 완료했습니다.\n업데이트된 사이트 주소: https://conja-starter.pages.dev (메인 서비스: https://conjatube.gowith153.com)\n결제 연동 화면 캡처 및 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/16강_Cloudflare_배포_및_결제연동_보고서.md\n\n[정식 1기 v2 개선] Cloudflare Pages 배포 및 결제·웹훅 이용권 발급 흐름을 재점검하고, 유료 구매자 자동 업데이트·계정 접근이 끊기지 않도록 기술 식별자 보존 원칙을 반영했습니다."
   },
   {
-    "num": "18",
-    "lessonId": "20",
+    "challengeId": 20,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/20",
     "title": "4일 차 ) 시작 전 준비사항",
-    "href": "https://ssapable.com/learn/ai-agent/20",
     "mdFile": "18강_필수개발사이트_5종_가입확인서.md",
-    "comment": "가입 완료\n개발을 위한 필수 사이트 5곳(GitHub, Cloudflare, DB, AI API 플랫폼, 결제 PG) 가입 및 CLI 연동 확인서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/18강_필수개발사이트_5종_가입확인서.md"
+    "comment": "가입 완료\n개발을 위한 필수 사이트 5곳(GitHub, Cloudflare, DB, AI API 플랫폼, 결제 PG) 가입 및 CLI 연동 확인서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/18강_필수개발사이트_5종_가입확인서.md\n\n[정식 1기 v2 개선] 기존 5종(GitHub·Cloudflare·DB·AI API·PG)에 더해 Google Cloud Console(YouTube API 3대장) 및 PayPal Developer(인보이스 API) 연동 계정을 추가 확인했습니다."
   },
   {
-    "num": "19",
-    "lessonId": "21",
+    "challengeId": 21,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/21",
     "title": "4일 차 ) \"이런 사이트 만들어줘\"를 말 대신",
-    "href": "https://ssapable.com/learn/ai-agent/21",
     "mdFile": "19강_웹서비스_레퍼런스_디자인_분석.md",
-    "comment": "벤치마킹한 웹/앱 레퍼런스 디자인 링크입니다.\n1) Linear: https://linear.app (다크모드 대비·타이포그래피 계층)\n2) Stripe: https://stripe.com (신뢰감 있는 결제·지표 시각화 레이아웃)\n3) Raycast: https://raycast.com (기능별 벤토 그리드 카드 구성)\n레퍼런스 디자인 분석 및 내 사이트 적용 노트: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/19강_웹서비스_레퍼런스_디자인_분석.md"
+    "comment": "벤치마킹한 웹/앱 레퍼런스 디자인 링크입니다.\n1) Linear: https://linear.app (다크모드 대비·타이포그래피 계층)\n2) Stripe: https://stripe.com (신뢰감 있는 결제·지표 시각화 레이아웃)\n3) Raycast: https://raycast.com (기능별 벤토 그리드 카드 구성)\n레퍼런스 디자인 분석 및 내 사이트 적용 노트: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/19강_웹서비스_레퍼런스_디자인_분석.md\n\n[정식 1기 v2 개선] 기존 Linear·Stripe·Raycast 분석에 실무 디자인 토큰 기준(플랫 표면+`1px` 테두리, 명암비 `4.5:1` 이상, `Pretendard` 타이포 계층, CTA 집중 배치)을 추가해 자사 페이지 시안 품질 기준을 정량화했습니다."
   },
   {
-    "num": "20",
-    "lessonId": "22",
+    "challengeId": 22,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/22",
     "title": "4일 차 )왜 내 사이트에서 내 지식을 팔아야하는가",
-    "href": "https://ssapable.com/learn/ai-agent/22",
     "mdFile": "20강_내_지식상품_정의서.md",
-    "comment": "내가 판매할 수 있는 지식: 코딩을 모르는 1인 창업가·소상공인이 AI 에이전트(바이브코딩)를 활용해 자사 판매 사이트를 구축하고, 유튜브 쇼츠·블로그·쓰레드 콘텐츠 제작과 고객 응대를 자동화하는 실전 노하우 및 자동화 도구 패키지입니다.\n지식 상품 기획 및 라인업 정의서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/20강_내_지식상품_정의서.md"
+    "comment": "내가 판매할 수 있는 지식: 코딩을 모르는 1인 창업가·소상공인이 AI 에이전트(바이브코딩)를 활용해 자사 판매 사이트를 구축하고, 유튜브 쇼츠·블로그·쓰레드 콘텐츠 제작과 고객 응대를 자동화하는 실전 노하우 및 자동화 도구 패키지입니다.\n지식 상품 기획 및 라인업 정의서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/20강_내_지식상품_정의서.md\n\n[정식 1기 v2 개선] 활동명을 **데이비**로 리브랜딩하면서 주제를 **'콘텐츠 자동화(해부 → 재현)'**로 뾰족하게 좁히고, 전자책·자동화 도구·유튜브/브랜드 협업·B2B 워크숍 4단 상품 구조를 재정비했습니다."
   },
   {
-    "num": "21",
-    "lessonId": "23",
+    "challengeId": 23,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/23",
     "title": "4일 차 )원하는 걸 말해봐",
-    "href": "https://ssapable.com/learn/ai-agent/23",
     "mdFile": "21강_디지털콘텐츠_판매사이트_구축보고서.md",
-    "comment": "디지털 콘텐츠(전자책·요청문 꾸러미·AI 자동화 도구) 판매 사이트 구축을 완료했습니다.\n제작 사이트 주소 1: https://conja-starter.pages.dev\n제작 사이트 주소 2: https://conjatube.gowith153.com\n구축 보고서 및 화면 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/21강_디지털콘텐츠_판매사이트_구축보고서.md"
+    "comment": "디지털 콘텐츠(전자책·요청문 꾸러미·AI 자동화 도구) 판매 사이트 구축을 완료했습니다.\n제작 사이트 주소 1: https://conja-starter.pages.dev\n제작 사이트 주소 2: https://conjatube.gowith153.com\n구축 보고서 및 화면 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/21강_디지털콘텐츠_판매사이트_구축보고서.md\n\n[정식 1기 v2 개선] 자사 판매 사이트의 브랜드 표기를 **데이비 스타터팩 / 데이비 스튜디오**로 정비하고, 신규 무료 자료·전자책·자동화 패키지 상세 안내 및 구매 동선을 개선했습니다."
   },
   {
-    "num": "25",
-    "lessonId": "27",
+    "challengeId": 27,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/27",
     "title": "4일 차 )필요한 기능은 계속 생깁니다",
-    "href": "https://ssapable.com/learn/ai-agent/27",
     "mdFile": "25강_SEO_메타데이터_및_검색등록_확인.md",
-    "comment": "등록 완료\n구글 서치콘솔·네이버 서치어드바이저 등록과 함께 `robots.txt`, `sitemap.xml`, `og.png`(1200x630), 비즈니스 관련 롱테일 키워드 메타데이터 세팅을 완료했습니다.\nSEO 적용 내역 및 점검 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/25강_SEO_메타데이터_및_검색등록_확인.md"
+    "comment": "등록 완료\n구글 서치콘솔·네이버 서치어드바이저 등록과 함께 `robots.txt`, `sitemap.xml`, `og.png`(1200x630), 비즈니스 관련 롱테일 키워드 메타데이터 세팅을 완료했습니다.\nSEO 적용 내역 및 점검 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/25강_SEO_메타데이터_및_검색등록_확인.md\n\n[정식 1기 v2 개선] 리브랜딩된 활동명(**데이비**)과 핵심 키워드('콘텐츠 자동화', 'AI 영상 제작', '바이브코딩') 기준으로 OG 메타태그 및 검색 노출 키워드 전략을 v2로 보강했습니다."
   },
   {
-    "num": "29",
-    "lessonId": "31",
+    "challengeId": 31,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/31",
     "title": "5일 차 ) 클로드가 짠 코드 codex로 검수",
-    "href": "https://ssapable.com/learn/ai-agent/31",
     "mdFile": "29강_보안검수_리포트_CODEX_REVIEW.md",
-    "comment": "Claude가 작성한 사이트 코드를 교차 보안 검수하여 대소문자 경로 우회(`/API/ADMIN/members`) 취약점 패치, 보안 헤더(`_headers`) 적용, 민감정보 노출 차단까지 총 28개 보안 항목 전수 통과를 완료했습니다.\n보안 검수 리포트 URL: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/29강_보안검수_리포트_CODEX_REVIEW.md\n보안 점검 터미널 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/29강_보안검수_실행화면.png"
+    "comment": "Claude가 작성한 사이트 코드를 교차 보안 검수하여 대소문자 경로 우회(`/API/ADMIN/members`) 취약점 패치, 보안 헤더(`_headers`) 적용, 민감정보 노출 차단까지 총 28개 보안 항목 전수 통과를 완료했습니다.\n보안 검수 리포트 URL: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/29강_보안검수_리포트_CODEX_REVIEW.md\n보안 점검 터미널 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/29강_보안검수_실행화면.png\n\n[정식 1기 v2 개선] 1차 28개 보안 항목 패치 이후 신규 추가된 API 연동(YouTube OAuth, PayPal 샌드박스 키, 텔레그램 봇 토큰)의 `.gitignore` 및 환경변수 격리 상태를 재검수했습니다."
   },
   {
-    "num": "31",
-    "lessonId": "33",
+    "challengeId": 33,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/33",
     "title": "5일 차 ) 고객 받을 준비",
-    "href": "https://ssapable.com/learn/ai-agent/33",
     "mdFile": "31강_사이트_모니터링_및_GA4_연동보고서.md",
-    "comment": "UptimeRobot 5분 간격 웹사이트 모니터링 등록 및 Google Analytics 4(GA4) 실시간 개요 연동 확인을 완료했습니다.\n모니터링 및 GA4 실시간 개요 캡처 이미지: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/31강_UptimeRobot_GA4_모니터링_세팅.png\n세팅 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/31강_사이트_모니터링_및_GA4_연동보고서.md"
+    "comment": "UptimeRobot 5분 간격 웹사이트 모니터링 등록 및 Google Analytics 4(GA4) 실시간 개요 연동 확인을 완료했습니다.\n네이버 카페 댓글 이미지 제출 완료(닉네임: 데이비): https://cafe.naver.com/aigeeclass/830\n모니터링 및 GA4 실시간 개요 캡처 이미지: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/31강_UptimeRobot_GA4_모니터링_세팅.png\n세팅 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/31강_사이트_모니터링_및_GA4_연동보고서.md\n\n[정식 1기 v2 개선] UptimeRobot 5분 주기 모니터링 및 GA4 실시간 이벤트 추적을 유지하면서, 콘텐츠(유튜브·스레드·인스타) 유입별 전환 경로 추적을 위한 UTM 규칙을 보강했습니다."
   },
   {
-    "num": "32",
-    "lessonId": "34",
+    "challengeId": 34,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/34",
     "title": "5일 차 ) 내 데이터는 안전합니다",
-    "href": "https://ssapable.com/learn/ai-agent/34",
     "mdFile": "32강_관리자_DB백업_기능_명세및화면.md",
-    "comment": "관리자 페이지 내 DB 백업(JSON/CSV 내보내기) 기능을 구현하고, 비밀번호 해시·API 키·결제 시크릿 등 민감정보가 백업에서 제외되도록 검증 완료했습니다.\n관리자 백업 기능 URL: https://conja-starter.pages.dev/admin\n백업 화면 캡처 및 샘플 데이터: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/32강_관리자_DB백업_기능_명세및화면.md"
+    "comment": "관리자 페이지 내 DB 백업(JSON/CSV 내보내기) 기능을 구현하고, 비밀번호 해시·API 키·결제 시크릿 등 민감정보가 백업에서 제외되도록 검증 완료했습니다.\n관리자 백업 기능 URL: https://conja-starter.pages.dev/admin\n백업 화면 캡처 및 샘플 데이터: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/32강_관리자_DB백업_기능_명세및화면.md\n\n[정식 1기 v2 개선] 관리자 DB JSON/CSV 백업 스키마 내 브랜드 상품명을 **데이비 스타터팩** 기준으로 갱신하고, 민감정보 제외 필터(비밀번호 해시·API 키·시크릿) 무결성을 재검증했습니다."
   },
   {
-    "num": "33",
-    "lessonId": "35",
+    "challengeId": 35,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/35",
     "title": "5일 차 ) 내 사이트에 고객이 터지는 날엔",
-    "href": "https://ssapable.com/learn/ai-agent/35",
     "mdFile": "33강_트래픽확장_및_파비콘_적용보고서.md",
-    "comment": "DB Compute 크기 설정 경로 확인 및 웹사이트 파비콘(Favicon) 등록을 완료했습니다.\n인프라 설정 및 파비콘 반영 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/33강_인프라_컴퓨트설정_및_파비콘등록.png\n상세 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/33강_트래픽확장_및_파비콘_적용보고서.md"
+    "comment": "DB Compute 크기 설정 경로 확인 및 웹사이트 파비콘(Favicon) 등록을 완료했습니다.\n네이버 카페 댓글 이미지 제출 완료(닉네임: 데이비): https://cafe.naver.com/aigeeclass/830\n인프라 설정 및 파비콘 반영 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/33강_인프라_컴퓨트설정_및_파비콘등록.png\n상세 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/33강_트래픽확장_및_파비콘_적용보고서.md\n\n[정식 1기 v2 개선] 트래픽 급증 대비 DB Compute 스케일업 체크리스트와 함께, 리브랜딩된 데이비 브랜드 톤에 맞춘 파비콘·OG 자산 관리 기준을 업데이트했습니다."
   },
   {
-    "num": "34",
-    "lessonId": "36",
+    "challengeId": 36,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/36",
     "title": "5일 차 ) 내 사이트에 와야할 이유",
-    "href": "https://ssapable.com/learn/ai-agent/36",
     "mdFile": "34강_워크트리_신규기능_병합기록.md",
-    "comment": "워크트리 분리 환경에서 사이트 체류와 전환을 높이는 구매자 체험·이용권 즉시 등록 및 매출 리포트 기능을 개발·검증한 뒤 main 브랜치에 병합 배포했습니다.\n사이트 URL: https://conja-starter.pages.dev (메인 서비스: https://conjatube.gowith153.com)\nGitHub 병합 내역 및 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/34강_워크트리_신규기능_병합기록.md"
+    "comment": "워크트리 분리 환경에서 사이트 체류와 전환을 높이는 구매자 체험·이용권 즉시 등록 및 매출 리포트 기능을 개발·검증한 뒤 main 브랜치에 병합 배포했습니다.\n사이트 URL: https://conja-starter.pages.dev (메인 서비스: https://conjatube.gowith153.com)\nGitHub 병합 내역 및 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/34강_워크트리_신규기능_병합기록.md\n\n[정식 1기 v2 개선] 작업 폴더 오염을 막기 위해 전용 외부 워크트리 경로(`~/.davie/dev/`)에서 기능을 격리 개발·검증한 뒤 `main`에 병합하는 안전한 워크트리 운영 규칙으로 개선했습니다."
   },
   {
-    "num": "35",
-    "lessonId": "37",
+    "challengeId": 37,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/37",
     "title": "6일 차 ) 쓰레드 자동화 세팅 준비",
-    "href": "https://ssapable.com/learn/ai-agent/37",
     "mdFile": "35강_쓰레드_프로필_및_고정게시물_세팅.md",
-    "comment": "내 비즈니스를 한눈에 보여주는 프로필 소개 문구, 서비스 링크(https://conjatube.gowith153.com), 고정 게시물 세팅을 완료했습니다.\n쓰레드 채널 및 프로필 세팅 내역: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/35강_쓰레드_프로필_및_고정게시물_세팅.md\n프로필 세팅 화면 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/35강_쓰레드_프로필화면.png"
+    "comment": "내 비즈니스를 한눈에 보여주는 프로필 소개 문구, 서비스 링크(https://conjatube.gowith153.com), 고정 게시물 세팅을 완료했습니다.\n자신의 쓰레드 계정 주소: https://www.threads.com/@david153.official\n쓰레드 채널 및 프로필 세팅 내역: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/35강_쓰레드_프로필_및_고정게시물_세팅.md\n프로필 세팅 화면 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/35강_쓰레드_프로필화면.png\n\n[정식 1기 v2 개선] 스레드·인스타그램 공식 활동 계정을 **`@david153.official` (데이비)**로 리브랜딩 확정하고, '콘텐츠 자동화 · 해부하고 직접 재현합니다' 콘셉트로 프로필과 링크 구성을 재정비했습니다."
   },
   {
-    "num": "36",
-    "lessonId": "38",
+    "challengeId": 38,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/38",
     "title": "6일 차 ) 자동화 5가지 방법",
-    "href": "https://ssapable.com/learn/ai-agent/38",
     "mdFile": "36강_아침브리핑_루틴_자동화_결과.md",
-    "comment": "내 비즈니스 모델 보드를 바탕으로 매일 아침 대표가 챙겨야 할 핵심 지표·할 일·자동화 후보를 브리핑해 주는 예약 루틴을 구축하고 실행 결과를 캡처했습니다.\n브리핑 결과 화면 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/36강_아침브리핑_실행캡처.png\n루틴 코드 및 결과 리포트 저장소: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/36강_아침브리핑_루틴_자동화_결과.md"
+    "comment": "내 비즈니스 모델 보드를 바탕으로 매일 아침 대표가 챙겨야 할 핵심 지표·할 일·자동화 후보를 브리핑해 주는 예약 루틴을 구축하고 실행 결과를 캡처했습니다.\n네이버 카페 댓글 이미지 제출 완료(닉네임: 데이비): https://cafe.naver.com/aigeeclass/831\n브리핑 결과 화면 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/36강_아침브리핑_실행캡처.png\n루틴 코드 및 결과 리포트 저장소: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/36강_아침브리핑_루틴_자동화_결과.md\n\n[정식 1기 v2 개선] 일일 아침 브리핑 루틴에 유튜브·스레드·인스타 성과 요약 및 해외 AI 자동화 트렌드(X·레딧) 수집 항목을 추가해 실전 의사결정 밀도를 높였습니다."
   },
   {
-    "num": "37",
-    "lessonId": "39",
+    "challengeId": 39,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/39",
     "title": "6일 차 ) thread 자동화를 위한 api 발급",
-    "href": "https://ssapable.com/learn/ai-agent/39",
     "mdFile": "37강_Meta_API_MCP_자연어명령_대화기록.md",
-    "comment": "Meta 앱 생성 및 Threads 권한(`threads_basic`, `threads_content_publish`) 추가, 토큰 발급 후 에이전트에게 자연어로 게시물 작성·발행을 지시해 수행한 기록입니다.\nMeta API 연동 및 자연어 명령 실행 대화 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/37강_Meta_API_MCP_자연어명령_대화기록.md\nAPI 연결 확인 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/37강_쓰레드_자동발행_화면.png"
+    "comment": "Meta 앱 생성 및 Threads 권한(`threads_basic`, `threads_content_publish`) 추가, 토큰 발급 후 에이전트에게 자연어로 게시물 작성·발행을 지시해 수행한 기록입니다.\nMeta API 연동 및 자연어 명령 실행 대화 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/37강_Meta_API_MCP_자연어명령_대화기록.md\nAPI 연결 확인 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/37강_쓰레드_자동발행_화면.png\n\n[정식 1기 v2 개선] Threads API 자연어 발행 흐름을 `@david153.official` 브랜드 가이드와 연결하고, 발행 전 인간화 필터(`/ig-human`) 및 금지어 검사를 거치도록 파이프라인을 개선했습니다."
   },
   {
-    "num": "38",
-    "lessonId": "40",
+    "challengeId": 40,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/40",
     "title": "6일 차 ) 언제 사라질지 모르는 codex 무제한 사용법 (웹쫀쿠)",
-    "href": "https://ssapable.com/learn/ai-agent/40",
     "mdFile": "38강_브라우저연동_구조설명.md",
-    "comment": "로컬 에이전트에서 웹 브라우저 세션으로 명령이 전달되고 응답을 받아 처리하는 브릿지 연동 화면 캡처입니다.\n연동 확인 화면 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/38강_에이전트_웹브라우저_브릿지_캡처.png\n구조 설명 문서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/38강_브라우저연동_구조설명.md"
+    "comment": "로컬 에이전트에서 웹 브라우저 세션으로 명령이 전달되고 응답을 받아 처리하는 브릿지 연동 화면 캡처입니다.\n네이버 카페 댓글 이미지 제출 완료(닉네임: 데이비): https://cafe.naver.com/aigeeclass/832\n연동 확인 화면 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/38강_에이전트_웹브라우저_브릿지_캡처.png\n구조 설명 문서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/38강_브라우저연동_구조설명.md\n\n[정식 1기 v2 개선] 로컬 에이전트와 브라우저 연동 구조를 **헤드리스 전용 크롬 프로필 관리(`davie-chrome`) + CDP 탭 격리** 방식으로 고도화해, 사용자 작업을 방해하지 않는 무인 백그라운드 제어를 구현했습니다."
   },
   {
-    "num": "39",
-    "lessonId": "41",
+    "challengeId": 41,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/41",
     "title": "6일 차 ) 사람인척 하기 ㅋㅋ",
-    "href": "https://ssapable.com/learn/ai-agent/41",
     "mdFile": "39강_인간화_말투학습_프롬프트_및_댓글5선.md",
-    "comment": "실제 1인 창업가·실무자 커뮤니티 말투를 학습시켜 AI 번역투를 없앤 인간화 프롬프트를 구성하고, 피드 문맥에 맞는 소통 댓글 5건을 작성했습니다.\n인간화 프롬프트 및 실전 댓글 5건 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/39강_인간화_말투학습_프롬프트_및_댓글5선.md"
+    "comment": "실제 1인 창업가·실무자 커뮤니티 말투를 학습시켜 AI 번역투를 없앤 인간화 프롬프트를 구성하고, 피드 문맥에 맞는 소통 댓글 5건을 작성했습니다.\n자신의 쓰레드 계정 댓글 링크: https://www.threads.com/@david153.official/replies\n인간화 프롬프트 및 실전 댓글 5건 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/39강_인간화_말투학습_프롬프트_및_댓글5선.md\n\n[정식 1기 v2 개선] 데이비 전용 말투 정의서(`voice.md`)와 AI 번역투·기계 지문 제거 5중 검수(`/ig-human`)를 적용해 `@david153.official` 톤에 맞는 자연스러운 소통 댓글 규칙으로 업그레이드했습니다."
   },
   {
-    "num": "40",
-    "lessonId": "42",
+    "challengeId": 42,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/42",
     "title": "6일 차 ) 개미 집 짓기",
-    "href": "https://ssapable.com/learn/ai-agent/42",
     "mdFile": "40강_브랜드_AGENTS_디렉터리_구조.md",
-    "comment": "AGENTS.md 파일 안의 \"프로젝트별 디렉터리 위치 안내\" 문구입니다.\n\n- 브랜드 정체성·말투·금지어 정본: `brand/AGENTS.md`에서 관리하며, 모든 채널 원고·답글·상세페이지 생성 시 최우선으로 참조합니다.\n- 판매 사이트 및 관리자·백업(`conja-starter`): 웹 화면·결제·자료실 코드는 `site/` (`https://conja-starter.pages.dev`), DB 백업 및 매출 리포트는 `backups/`와 `/admin`에서 관리합니다.\n- 유튜브·쇼츠 자동화(`youtube-shorts`): 소재 발굴·대본·TTS·FFmpeg 렌더링 스킬은 `skills/youtube-shorts/SKILL.md`를 따르며, 산출물은 `assets/`에 보관합니다.\n- 모바일·웹 동선 자동화(`mobile-app-flow`): 화면 탐색 및 반복 동선 스킬은 `skills/mobile-app-flow/SKILL.md`에서 관리합니다.\n- 일일 브리핑 및 자율 개선 루틴(`jarvis & goal-runner`): 실행 결과 및 검증 보고서는 `WORK_REPORT.md`에 기록하고, 피드백 벡터 데이터는 `agent_learning.document_embeddings` 테이블을 정본으로 사용합니다.\n\n원문 파일 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/AGENTS.md"
+    "comment": "AGENTS.md 파일 안의 \"프로젝트별 디렉터리 위치 안내\" 문구입니다.\n\n- 브랜드 정체성·말투·금지어 정본: `brand/AGENTS.md`에서 관리하며, 모든 채널 원고·답글·상세페이지 생성 시 최우선으로 참조합니다.\n- 판매 사이트 및 관리자·백업(`conja-starter`): 웹 화면·결제·자료실 코드는 `site/` (`https://conja-starter.pages.dev`), DB 백업 및 매출 리포트는 `backups/`와 `/admin`에서 관리합니다.\n- 유튜브·쇼츠 자동화(`youtube-shorts`): 소재 발굴·대본·TTS·FFmpeg 렌더링 스킬은 `skills/youtube-shorts/SKILL.md`를 따르며, 산출물은 `assets/`에 보관합니다.\n- 모바일·웹 동선 자동화(`mobile-app-flow`): 화면 탐색 및 반복 동선 스킬은 `skills/mobile-app-flow/SKILL.md`에서 관리합니다.\n- 일일 브리핑 및 자율 개선 루틴(`jarvis & goal-runner`): 실행 결과 및 검증 보고서는 `WORK_REPORT.md`에 기록하고, 피드백 벡터 데이터는 `agent_learning.document_embeddings` 테이블을 정본으로 사용합니다.\n\n원문 파일 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/AGENTS.md\n\n[정식 1기 v2 개선] `AGENTS.md` 최상위 디렉터리 안내를 **데이비(`@david153.official`)** 중심으로 개편하고, 영상 제작 작업실(`15_데이비_영상제작_작업실`), 인스타 13종 스킬, 알고리즘 분석 스킬 경로를 통합 반영했습니다."
   },
   {
-    "num": "41",
-    "lessonId": "43",
+    "challengeId": 43,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/43",
     "title": "7일 차) 사람들에게 내 존재를 알려라 (1)",
-    "href": "https://ssapable.com/learn/ai-agent/43",
     "mdFile": "41강_계획모드_쓰레드소통_자동화_설계및대화.md",
-    "comment": "계획 모드(/plan)로 작업 목표를 정의하고, 피드 10개 수집·상위 3개 필터링·중복 검사는 로컬 스크립트로 분리하고 댓글 문구 생성만 AI 모델을 호출하도록 설계·구현한 대화 기록입니다.\n설계 및 구현 대화 공유 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/41강_계획모드_쓰레드소통_자동화_설계및대화.md"
+    "comment": "계획 모드(/plan)로 작업 목표를 정의하고, 피드 10개 수집·상위 3개 필터링·중복 검사는 로컬 스크립트로 분리하고 댓글 문구 생성만 AI 모델을 호출하도록 설계·구현한 대화 기록입니다.\n설계 및 구현 대화 공유 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/41강_계획모드_쓰레드소통_자동화_설계및대화.md\n\n[정식 1기 v2 개선] 로컬 스크립트(수집·필터링·중복 방지)와 LLM 호출(문구 생성) 분리 원칙을 유지하면서, 인스타·스레드 13종 운영 스킬(`/ig-comment`, `/ig-reply`, `/ig-dm`)과 연동하도록 설계를 개선했습니다."
   },
   {
-    "num": "42",
-    "lessonId": "44",
+    "challengeId": 44,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/44",
     "title": "7일차) 사람들에게 내 존재를 알려라 (2)",
-    "href": "https://ssapable.com/learn/ai-agent/44",
     "mdFile": "42강_WORK_REPORT.md",
-    "comment": "10분 뒤 1회성 예약 테스트 실행 확인 및 내 반복 업무(일일 핵심 지표 브리핑 + 피드 소통 자동화)를 로컬 프로그램으로 구축하여 자동 실행 세팅 후 작성한 WORK_REPORT.md 입니다.\nWORK_REPORT.md 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/WORK_REPORT.md\n예약 실행 검증 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/42강_예약실행_검증캡처.png"
+    "comment": "10분 뒤 1회성 예약 테스트 실행 확인 및 내 반복 업무(일일 핵심 지표 브리핑 + 피드 소통 자동화)를 로컬 프로그램으로 구축하여 자동 실행 세팅 후 작성한 WORK_REPORT.md 입니다.\n네이버 카페 댓글 이미지 제출 완료(닉네임: 데이비): https://cafe.naver.com/aigeeclass/833\nWORK_REPORT.md 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/WORK_REPORT.md\n예약 실행 검증 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/42강_예약실행_검증캡처.png\n\n[정식 1기 v2 개선] 예약 자동화 실행 보고서(`WORK_REPORT.md`)에 실행 시각·상태 코드·실물 산출물 해시·오류 복구 이력 기록 항목을 추가해 무인 운영 신뢰도를 높였습니다."
   },
   {
-    "num": "43",
-    "lessonId": "45",
+    "challengeId": 45,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/45",
     "title": "8일 차) '나'를 복제하려면 ? (1)",
-    "href": "https://ssapable.com/learn/ai-agent/45",
     "mdFile": "43강_불변브랜드_가변상품_분리설계.md",
-    "comment": "내 브랜드(자주 안 바뀌는 정보) : 콘자 (고위드153 / 브이메이크) — 비개발자·1인 창업가를 위한 AI 바이브코딩 & 유튜브·SNS 마케팅 자동화 솔루션\n내 상품 (자주 바뀔 수 있는 정보) : https://conjatube.gowith153.com/pricing 및 https://conja-starter.pages.dev\n불변/가변 정보 분리 설계 문서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/43강_불변브랜드_가변상품_분리설계.md"
+    "comment": "내 브랜드(자주 안 바뀌는 정보) : 데이비 (고위드153 / 브이메이크) — 비개발자·1인 창업가를 위한 AI 바이브코딩 & 유튜브·SNS 마케팅 자동화 솔루션\n내 상품 (자주 바뀔 수 있는 정보) : https://conjatube.gowith153.com/pricing 및 https://conja-starter.pages.dev\n불변/가변 정보 분리 설계 문서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/43강_불변브랜드_가변상품_분리설계.md\n\n[정식 1기 v2 개선] 리브랜딩 원칙(사람 활동명 `데이비`와 기술 도메인 분리)을 반영해 **불변 브랜드 정체성(로컬 `.md`)**과 **가변 상품·단가·성과 지표(DB 실시간 조회)** 경계를 명확히 재설계했습니다."
   },
   {
-    "num": "44",
-    "lessonId": "46",
+    "challengeId": 46,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/46",
     "title": "8일 차) '나'를 복제하려면 ? (2)",
-    "href": "https://ssapable.com/learn/ai-agent/46",
     "mdFile": "44강_데이터베이스_대시보드_및_스키마명세.md",
-    "comment": "내 사이트에 연결된 데이터베이스 프로젝트 Dashboard URL입니다.\nDashboard URL: https://dash.cloudflare.com/40af817b804fd959e3ea6d34b807c20e/workers/d1\n데이터베이스 스키마 및 연동 명세: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/44강_데이터베이스_대시보드_및_스키마명세.md"
+    "comment": "내 사이트에 연결된 데이터베이스 프로젝트 Dashboard URL입니다.\nDashboard URL: https://dash.cloudflare.com/40af817b804fd959e3ea6d34b807c20e/workers/d1\n데이터베이스 스키마 및 연동 명세: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/44강_데이터베이스_대시보드_및_스키마명세.md\n\n[정식 1기 v2 개선] Cloudflare D1 / Supabase 기반 상품·주문·콘텐츠 성과 테이블에 협업 문의·단가표·유튜브 지표 추적 컬럼 설계를 보강했습니다."
   },
   {
-    "num": "47",
-    "lessonId": "49",
+    "challengeId": 49,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/49",
     "title": "8일 차) 복제 중",
-    "href": "https://ssapable.com/learn/ai-agent/49",
     "mdFile": "47강_brand_AGENTS.md",
-    "comment": "/brand 폴더의 AGENTS.md 파일 내용 전문입니다.\n\n# /brand/AGENTS.md — 콘자(고위드153 / 브이메이크) 브랜드 복제 지침서\n\n## 1. 브랜드 정체성 (불변 정보)\n- **브랜드명**: 콘자 (고위드153 / 브이메이크)\n- **핵심 슬로건**: \"노가다는 AI에게 시키고, 우리는 돈 되는 기획만 합시다\"\n- **타깃 고객**: 코딩을 모르는 1인 창업가, 소상공인, 디지털 노마드, 지식창업자\n- **제공 가치**: 복잡한 개발 지식 없이 자연어(\"해줘\")와 검증된 자동화 파이프라인으로 판매 사이트, 유튜브 쇼츠, SNS 마케팅을 무인화·반자동화한다.\n\n## 2. 톤앤매너 및 문체 규칙\n- **친근하고 명확한 실무형 구어체**: 전문 용어를 나열하지 않고 비개발자 눈높이에서 비유와 구체적 숫자로 설명한다.\n- **도입부 후킹 원칙**: 첫 문장은 반드시 독자가 겪는 생생한 시행착오나 구체적인 시간·비용 절감 수치로 시작한다.\n- **단락 호흡**: 한 문단은 3문장 이내로 끊어 모바일 가독성을 확보한다.\n- **금칙어 및 주의사항**: 확인되지 않은 수익 보장 문구, 추상적인 교과서식 인사말(\"안녕하세요, 오늘은 ~에 대해 알아보겠습니다\"), 번역투 표현을 금지한다.\n\n## 3. 불변 정보 vs 가변 정보 조회 원칙\n- **불변 자산(이 문서 참조)**: 브랜드 철학, 타깃 페르소나, 말투 규칙, 금지 사항\n- **가변 자산(DB 실시간 조회 필수)**: 상품 가격, 할인 기간, 라이브 일정, 크레딧 요금제는 절대 기억에 의존해 지어내지 않고 반드시 DB(`products` 테이블) 또는 공식 사이트(`https://conjatube.gowith153.com/pricing`)에서 최신 값을 조회해 답한다.\n\n원문 파일 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/brand/AGENTS.md"
+    "comment": "/brand 폴더의 AGENTS.md 파일 내용 전문입니다.\n\n# /brand/AGENTS.md — 데이비 (고위드153 / 브이메이크) 브랜드 복제 지침서\n\n## 1. 브랜드 정체성 (불변 정보)\n- **브랜드명**: 데이비 (고위드153 / 브이메이크)\n- **핵심 슬로건**: \"노가다는 AI에게 시키고, 우리는 돈 되는 기획만 합시다\"\n- **타깃 고객**: 코딩을 모르는 1인 창업가, 소상공인, 디지털 노마드, 지식창업자\n- **제공 가치**: 복잡한 개발 지식 없이 자연어(\"해줘\")와 검증된 자동화 파이프라인으로 판매 사이트, 유튜브 쇼츠, SNS 마케팅을 무인화·반자동화한다.\n\n## 2. 톤앤매너 및 문체 규칙\n- **친근하고 명확한 실무형 구어체**: 전문 용어를 나열하지 않고 비개발자 눈높이에서 비유와 구체적 숫자로 설명한다.\n- **도입부 후킹 원칙**: 첫 문장은 반드시 독자가 겪는 생생한 시행착오나 구체적인 시간·비용 절감 수치로 시작한다.\n- **단락 호흡**: 한 문단은 3문장 이내로 끊어 모바일 가독성을 확보한다.\n- **금칙어 및 주의사항**: 확인되지 않은 수익 보장 문구, 추상적인 교과서식 인사말(\"안녕하세요, 오늘은 ~에 대해 알아보겠습니다\"), 번역투 표현을 금지한다.\n\n## 3. 불변 정보 vs 가변 정보 조회 원칙\n- **불변 자산(이 문서 참조)**: 브랜드 철학, 타깃 페르소나, 말투 규칙, 금지 사항\n- **가변 자산(DB 실시간 조회 필수)**: 상품 가격, 할인 기간, 라이브 일정, 크레딧 요금제는 절대 기억에 의존해 지어내지 않고 반드시 DB(`products` 테이블) 또는 공식 사이트(`https://conjatube.gowith153.com/pricing`)에서 최신 값을 조회해 답한다.\n\n원문 파일 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/brand/AGENTS.md\n\n[정식 1기 v2 개선] `/brand/AGENTS.md` 정본을 **데이비(고위드153 / 브이메이크)** 브랜드로 전면 개정하고, '얼굴 없는 실전 시연·콘텐츠 자동화·해부→재현' 정체성과 금지어 규칙을 최신화했습니다."
   },
   {
-    "num": "48",
-    "lessonId": "50",
+    "challengeId": 50,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/50",
     "title": "8일 차) 복제 완료",
-    "href": "https://ssapable.com/learn/ai-agent/50",
     "mdFile": "48강_벡터임베딩_파이프라인_명세.md",
-    "comment": "내 상품·브랜드·강의 지식을 `text-embedding-3-small`(1536차원) 모델로 벡터화하여 `document_embeddings` 테이블에 적재 완료했습니다.\n테이블 이름·임베딩 모델·벡터화 항목 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/48강_지식베이스_벡터임베딩_테이블캡처.png\n임베딩 파이프라인 명세: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/48강_벡터임베딩_파이프라인_명세.md"
+    "comment": "내 상품·브랜드·강의 지식을 `text-embedding-3-small`(1536차원) 모델로 벡터화하여 `document_embeddings` 테이블에 적재 완료했습니다.\n네이버 카페 댓글 이미지 제출 완료(닉네임: 데이비): https://cafe.naver.com/aigeeclass/834\n테이블 이름·임베딩 모델·벡터화 항목 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/48강_지식베이스_벡터임베딩_테이블캡처.png\n임베딩 파이프라인 명세: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/48강_벡터임베딩_파이프라인_명세.md\n\n[정식 1기 v2 개선] 리브랜딩된 데이비 브랜드 가이드·전자책·자동화 도구 매뉴얼을 `text-embedding-3-small`(1536차원) 파이프라인으로 재임베딩할 수 있도록 메타데이터 태그(`brand=davie`)를 추가했습니다."
   },
   {
-    "num": "49",
-    "lessonId": "51",
+    "challengeId": 51,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/51",
     "title": "8일 차) 복제 완료 확인",
-    "href": "https://ssapable.com/learn/ai-agent/51",
     "mdFile": "49강_RAG연동_최신상품조회_콘텐츠생성_대화기록.md",
-    "comment": "기존 상품 DB 실시간 조회 + 강의·지식베이스 RAG 검색 파이프라인을 실제 코드로 연동하고, 새 대화 세션에서 최신 상품 정보와 원문 출처를 바탕으로 홍보 콘텐츠를 생성한 대화 기록입니다.\n검증 및 콘텐츠 생성 대화 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/49강_RAG연동_최신상품조회_콘텐츠생성_대화기록.md"
+    "comment": "기존 상품 DB 실시간 조회 + 강의·지식베이스 RAG 검색 파이프라인을 실제 코드로 연동하고, 새 대화 세션에서 최신 상품 정보와 원문 출처를 바탕으로 홍보 콘텐츠를 생성한 대화 기록입니다.\n검증 및 콘텐츠 생성 대화 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/49강_RAG연동_최신상품조회_콘텐츠생성_대화기록.md\n\n[정식 1기 v2 개선] RAG 검색 시 구 브랜드 문서가 섞이지 않도록 최신 버전(`v2`, `brand=davie`) 우선 필터링 조건을 추가하고, 실시간 DB 상품 조회와 결합한 홍보 원고 생성 품질을 개선했습니다."
   },
   {
-    "num": "50",
-    "lessonId": "52",
+    "challengeId": 52,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/52",
     "title": "9일 차) '클릭 한번'으로 학습하는 시스템만들기",
-    "href": "https://ssapable.com/learn/ai-agent/52",
     "mdFile": "50강_사이트_RAG챗봇_구현보고서.md",
-    "comment": "내 사이트에 상품 지식베이스 기반 RAG 안내 도우미를 구축했습니다(비로그인 방문자도 바로 확인 가능).\n확인 가능한 사이트 링크: https://conja-starter.pages.dev 및 https://conjatube.gowith153.com\n구현 보고서 및 작동 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/50강_사이트_RAG챗봇_구현보고서.md"
+    "comment": "내 사이트에 상품 지식베이스 기반 RAG 안내 도우미를 구축했습니다(비로그인 방문자도 바로 확인 가능).\n확인 가능한 사이트 링크: https://conja-starter.pages.dev 및 https://conjatube.gowith153.com\n구현 보고서 및 작동 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/50강_사이트_RAG챗봇_구현보고서.md\n\n[정식 1기 v2 개선] 웹사이트 RAG 안내 도우미의 응답 페르소나를 **데이비 실무 가이드 톤**으로 업데이트하고, 미확인 수치·가격 추측 금지 및 공식 링크 안내 가드레일을 강화했습니다."
   },
   {
-    "num": "52",
-    "lessonId": "54",
+    "challengeId": 54,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/54",
     "title": "9일 차) 알아서 학습하는 시스템 구축하기",
-    "href": "https://ssapable.com/learn/ai-agent/54",
     "mdFile": "52강_자율개선형_승격기준_검증대화.md",
-    "comment": "1) 자율 개선형 시스템(작업 결과·피드백 → 평가표 초안 → 개선 후보 → 기준 확정 → 비교 실험 → 승격 판정) 구축 확인 대화 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/52강_자율개선형_승격기준_검증대화.md\n2) VPS 서버 연결 및 인스턴스 대시보드 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/52강_VPS_인스턴스_대시보드.png"
+    "comment": "1) 자율 개선형 시스템(작업 결과·피드백 → 평가표 초안 → 개선 후보 → 기준 확정 → 비교 실험 → 승격 판정) 구축 확인 대화 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/52강_자율개선형_승격기준_검증대화.md\n2) 네이버 카페 댓글 이미지 제출 완료(닉네임: 데이비): https://cafe.naver.com/aigeeclass/835\n3) VPS 서버 연결 및 인스턴스 대시보드 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/52강_VPS_인스턴스_대시보드.png\n\n[정식 1기 v2 개선] 자율 개선 루프(평가표 초안 → 후보 → 기준 확정 → A/B 비교 → 승격/롤백)에 **실물 4중 검증(파일·해시·내용·원장)** 게이트를 추가해 껍데기 통과를 원천 차단했습니다."
   },
   {
-    "num": "53",
-    "lessonId": "55",
+    "challengeId": 55,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/55",
     "title": "9일 차) 내 목표를 달성해라",
-    "href": "https://ssapable.com/learn/ai-agent/55",
     "mdFile": "53강_goal_피드백누적_실행기록.md",
-    "comment": "/goal 기능으로 고객 유입 증가 목표를 부여하고 중간 피드백을 누적하여 `agent_learning` 스키마의 `document_embeddings` 테이블에 벡터 데이터가 쌓인 화면을 캡처했습니다.\n임베딩 DB 테이블 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/53강_agent_learning_document_embeddings_캡처.png\n실행 및 피드백 누적 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/53강_goal_피드백누적_실행기록.md"
+    "comment": "/goal 기능으로 고객 유입 증가 목표를 부여하고 중간 피드백을 누적하여 `agent_learning` 스키마의 `document_embeddings` 테이블에 벡터 데이터가 쌓인 화면을 캡처했습니다.\n네이버 카페 댓글 이미지 제출 완료(닉네임: 데이비): https://cafe.naver.com/aigeeclass/835\n임베딩 DB 테이블 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/53강_agent_learning_document_embeddings_캡처.png\n실행 및 피드백 누적 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/53강_goal_피드백누적_실행기록.md\n\n[정식 1기 v2 개선] `/goal` 목표 실행 중 누적된 피드백이 `agent_learning.document_embeddings`에 저장될 때, 영상·글·디자인 영역별 태그를 분리해 다음 세션 검색 정밀도를 높였습니다."
   },
   {
-    "num": "54",
-    "lessonId": "56",
+    "challengeId": 56,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/56",
     "title": "10일차 ) 내가 o/x 한 이유를 학습해",
-    "href": "https://ssapable.com/learn/ai-agent/56",
     "mdFile": "54강_OX승인학습_시스템_및_활동기록.md",
-    "comment": "초안 카드에서 O/X 승인·반려한 이유를 학습 DB에 자동 적재하고, 승인된 콘텐츠만 게시되는 파이프라인을 구축해 운영 중입니다.\n활동 채널 링크: https://www.youtube.com/channel/UCENIfFJRzikKWQhI88hGJCg (서비스: https://conjatube.gowith153.com)\nO/X 학습 파이프라인 및 DB 적재 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/54강_OX승인학습_시스템_및_활동기록.md"
+    "comment": "초안 카드에서 O/X 승인·반려한 이유를 학습 DB에 자동 적재하고, 승인된 콘텐츠만 게시되는 파이프라인을 구축해 운영 중입니다.\n활동 쓰레드 계정: https://www.threads.com/@david153.official\n활동 유튜브 채널: https://www.youtube.com/channel/UCeY43hfmmnymy5GOeyp-sYQ (서비스: https://conjatube.gowith153.com)\nO/X 학습 파이프라인 및 DB 적재 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/54강_OX승인학습_시스템_및_활동기록.md\n\n[정식 1기 v2 개선] O/X 승인·반려 학습 파이프라인의 활동 채널을 **`@david153.official` (스레드·인스타)** 및 **데이비 유튜브(`UCeY43hfmmnymy5GOeyp-sYQ`)**로 갱신하고 반려 사유 카테고리화를 추가했습니다."
   },
   {
-    "num": "55",
-    "lessonId": "57",
+    "challengeId": 57,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/57",
     "title": "10일차 ) 나를 복제하기 위한 데이터 쌓기",
-    "href": "https://ssapable.com/learn/ai-agent/57",
     "mdFile": "55강_서버_Goal_Runner_데몬세팅.md",
-    "comment": "VPS 서버에 24시간 무인으로 목표를 향해 실행·학습 데이터를 쌓는 Goal Runner 데몬(`goal-runner.service`) 세팅을 완료했습니다.\nGoal Runner 서버 세팅 명세 및 상태 확인: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/55강_서버_Goal_Runner_데몬세팅.md"
+    "comment": "VPS 서버에 24시간 무인으로 목표를 향해 실행·학습 데이터를 쌓는 Goal Runner 데몬(`goal-runner.service`) 세팅을 완료했습니다.\nGoal Runner 서버 세팅 명세 및 상태 확인: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/55강_서버_Goal_Runner_데몬세팅.md\n\n[정식 1기 v2 개선] 24시간 무인 실행 데몬(`goal-runner.service`)에 프로세스 헬스체크·재시작 백오프·텔레그램 상태 알림 연동 규격을 추가해 장기 무인 가동 안정성을 높였습니다."
   },
   {
-    "num": "56",
-    "lessonId": "58",
+    "challengeId": 58,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/58",
     "title": "10 일차) 언제나 방법은 있습니다.",
-    "href": "https://ssapable.com/learn/ai-agent/58",
     "mdFile": "56강_원격크롬CDP_세션유지_보고서.md",
-    "comment": "원격 크롬 브라우저 프로필 로그인 세션 구동 화면 및 Meta 앱 권한 설정·검수 화면 캡처를 제출합니다.\n화면 캡처 이미지: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/56강_원격브라우저_세션_및_앱심사_캡처.png\n세팅 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/56강_원격크롬CDP_세션유지_보고서.md"
+    "comment": "원격 크롬 브라우저 프로필 로그인 세션 구동 화면 및 Meta 앱 권한 설정·검수 화면 캡처를 제출합니다.\n네이버 카페 댓글 이미지 제출 완료(닉네임: 데이비): https://cafe.naver.com/aigeeclass/836\n화면 캡처 이미지: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/56강_원격브라우저_세션_및_앱심사_캡처.png\n세팅 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/56강_원격크롬CDP_세션유지_보고서.md\n\n[정식 1기 v2 개선] 원격 크롬 CDP 세션 유지 구조를 프로필별 격리 포트 및 헤드리스 전용 실행으로 정리하고, Meta/YouTube OAuth 토큰 만료 사전 알림 점검 절차를 추가했습니다."
   },
   {
-    "num": "59",
-    "lessonId": "61",
+    "challengeId": 61,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/61",
     "title": "11 일차) 컴퓨터 없이 자유료운 풀세팅 완료",
-    "href": "https://ssapable.com/learn/ai-agent/61",
     "mdFile": "59강_클라우드세션_VPS_무인콘텐츠자동화_대화기록.md",
-    "comment": "클라우드 세션과 VPS 워커, GitHub 정본 저장소를 연동하여 내 컴퓨터를 꺼두어도 콘텐츠 기획·검수·발행이 돌아가는 무인 자동화 풀세팅을 완료했습니다.\n클라우드 세션 작업 및 구축 대화 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/59강_클라우드세션_VPS_무인콘텐츠자동화_대화기록.md"
+    "comment": "클라우드 세션과 VPS 워커, GitHub 정본 저장소를 연동하여 내 컴퓨터를 꺼두어도 콘텐츠 기획·검수·발행이 돌아가는 무인 자동화 풀세팅을 완료했습니다.\n클라우드 세션 작업 및 구축 대화 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/59강_클라우드세션_VPS_무인콘텐츠자동화_대화기록.md\n\n[정식 1기 v2 개선] 클라우드 일회성 VM(개발·빌드)과 VPS 상시 서버(24시간 모니터링·텔레그램 알림·예약 발행)의 역할 분리를 명확히 재설계해 운영 비용과 장애 가능성을 낮췄습니다."
   },
   {
-    "num": "61",
-    "lessonId": "63",
+    "challengeId": 63,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/63",
     "title": "스스로 개선되는 에이전트 구조 만들기 2",
-    "href": "https://ssapable.com/learn/ai-agent/63",
     "mdFile": "61강_자가학습_아키텍처_점검및개선_대화기록.md",
-    "comment": "현재 Claude·Codex 작업 환경에서 피드백 저장 → 다음 세션 조회 → 결과물 실제 반영 → 비교 실험 후 승격/롤백까지 6대 필수 조건이 정상 작동하도록 구조를 점검·개선한 대화 기록입니다.\n구조 점검 및 개선 대화 공유 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/61강_자가학습_아키텍처_점검및개선_대화기록.md"
+    "comment": "현재 Claude·Codex 작업 환경에서 피드백 저장 → 다음 세션 조회 → 결과물 실제 반영 → 비교 실험 후 승격/롤백까지 6대 필수 조건이 정상 작동하도록 구조를 점검·개선한 대화 기록입니다.\n구조 점검 및 개선 대화 공유 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/61강_자가학습_아키텍처_점검및개선_대화기록.md\n\n[정식 1기 v2 개선] 세션 간 피드백 유실을 막기 위해 작업 종료 시 시행착오 자동 추출 → 규칙 파일/DB 승격 검토 루틴을 추가하고, 6대 자가학습 필수 조건을 재점검했습니다."
   },
   {
-    "num": "62",
-    "lessonId": "64",
+    "challengeId": 64,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/64",
     "title": "스스로 개선되는 에이전트 구조 만들기 3",
-    "href": "https://ssapable.com/learn/ai-agent/64",
     "mdFile": "62강_피드백반영_전후비교_보고서.md",
-    "comment": "피드백을 바탕으로 스스로 개선되는 에이전트 실증 과제 제출합니다.\n1) 실제 스키마·테이블(`agent_learning.feedback_logs`, `agent_learning.document_embeddings`)이 포함된 구조도 이미지: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/62강_자가개선_에이전트_구조도.png\n2) 첫 결과물 → 피드백 저장 → 새 세션에서 피드백 재언급 없이 자동 조회·반영된 작동 영상(일부공개/비공개): https://youtu.be/OSkdatkayZw 및 https://youtu.be/-0kHCrBp4EE (저장소 원본: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/62강_피드백반영_실증녹화영상.mp4)\n3) 전후 비교 상세 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/62강_피드백반영_전후비교_보고서.md"
+    "comment": "피드백을 바탕으로 스스로 개선되는 에이전트 실증 과제 제출합니다.\n1) 네이버 카페 댓글에 구조도 이미지 제출 완료(닉네임: 데이비): https://cafe.naver.com/aigeeclass/837 (GitHub 원본: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/62강_자가개선_에이전트_구조도.png)\n2) 첫 결과물 → 피드백 저장 → 새 세션에서 피드백 재언급 없이 자동 조회·반영된 작동 영상(일부공개/비공개): https://youtu.be/OSkdatkayZw 및 https://youtu.be/-0kHCrBp4EE\n3) 전후 비교 상세 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/62강_피드백반영_전후비교_보고서.md\n\n[정식 1기 v2 개선] 단순 문구 수정 실증을 넘어 영상 제작 파이프라인(08편 피드백 반영 → 09편 PC 실전 화면 시연 롱폼으로 구조 전면 개선)의 실제 Before/After 개선 사례와 DB 피드백 루프를 보강했습니다."
   },
   {
-    "num": "63",
-    "lessonId": "65",
+    "challengeId": 65,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/65",
     "title": "AI시대, 개꿀 유튜버 시작",
-    "href": "https://ssapable.com/learn/ai-agent/65",
     "mdFile": "63강_유튜브API연동_및_레퍼런스채널3선.md",
-    "comment": "1) YouTube Data API 연결(OAuth 인증 및 리프레시 토큰 저장) 영상 작업실 화면 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/63강_유튜브_영상작업실_화면캡처.png\n2) 레퍼런스 유튜브 채널 3개:\n- 조코딩: https://www.youtube.com/@조코딩\n- 신사임당: https://www.youtube.com/@신사임당\n- 일잘러 장피엠: https://www.youtube.com/@일잘러장피엠\n상세 정리 문서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/63강_유튜브API연동_및_레퍼런스채널3선.md"
+    "comment": "1) YouTube Data API 연결(OAuth 인증 및 리프레시 토큰 저장) 영상 작업실 화면 캡처 — 네이버 카페 댓글 이미지 제출 완료(닉네임: 데이비): https://cafe.naver.com/aigeeclass/838 (GitHub 원본: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/63강_유튜브_영상작업실_화면캡처.png)\n2) 레퍼런스 유튜브 채널 3개:\n- 조코딩: https://www.youtube.com/@조코딩\n- 신사임당: https://www.youtube.com/@신사임당\n- 일잘러 장피엠: https://www.youtube.com/@일잘러장피엠\n상세 정리 문서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/63강_유튜브API연동_및_레퍼런스채널3선.md\n\n[정식 1기 v2 개선] YouTube Data API v3 외에 Analytics·Reporting API 3대장 확장 구조와 해외·국내 고조회수 레퍼런스 채널 정량 해부(컷 길이·CPS·후킹 구조 측정 `ref_analyzer.py`) 연동을 추가했습니다."
   },
   {
-    "num": "65",
-    "lessonId": "67",
+    "challengeId": 67,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/67",
     "title": "유튜브 2트랙 전략",
-    "href": "https://ssapable.com/learn/ai-agent/67",
     "mdFile": "65강_유튜브_2트랙_인기주제_5선.md",
-    "comment": "데이터 기반(시의성 키워드 + 내 분야)으로 뽑은 5개 주제 중 최종 선정한 1가지 주제(제목)입니다.\n\n선정 주제: 「AI에게 같은 부탁 매일 하지 마세요 — 비개발자가 클로드 코드 규칙 파일 하나로 하루 2시간 아끼는 법」\n5개 후보 주제 및 키워드 데이터 분석 문서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/65강_유튜브_2트랙_인기주제_5선.md"
+    "comment": "데이터 기반(시의성 키워드 + 내 분야)으로 뽑은 5개 주제 중 최종 선정한 1가지 주제(제목)입니다.\n\n선정 주제: 「AI에게 같은 부탁 매일 하지 마세요 — 비개발자가 클로드 코드 규칙 파일 하나로 하루 2시간 아끼는 법」\n5개 후보 주제 및 키워드 데이터 분석 문서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/65강_유튜브_2트랙_인기주제_5선.md\n\n[정식 1기 v2 개선] 시의성 키워드 + 콘텐츠 자동화 2트랙 전략에 시크릿모드 알고리즘 토픽 스킬(`algorithm-topics-v1`)을 결합해, '해부 → 직접 재현' 포맷에 최적화된 5대 실전 주제로 v2 업데이트했습니다."
   },
   {
-    "num": "68",
-    "lessonId": "70",
+    "challengeId": 70,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/70",
     "title": "영상 편집 프로그램 없이, 유튜브 영상 만들기 3",
-    "href": "https://ssapable.com/learn/ai-agent/70",
     "mdFile": "68강_TTS_음성파이프라인_명세.md",
-    "comment": "유튜브 내레이션용 커스텀 보이스 합성 및 무음 압축·음량 정규화(-14.9 LUFS)를 거친 음성 샘플 링크입니다.\n음성 샘플 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/68강_보이스클로닝_음성합성_샘플.mp3\nTTS 파이프라인 명세: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/68강_TTS_음성파이프라인_명세.md"
+    "comment": "유튜브 내레이션용 커스텀 보이스 합성 및 무음 압축·음량 정규화(-14.9 LUFS)를 거친 음성 샘플 링크입니다.\n음성 샘플 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/68강_보이스클로닝_음성합성_샘플.mp3\nTTS 파이프라인 명세: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/68강_TTS_음성파이프라인_명세.md\n\n[정식 1기 v2 개선] 기존 임시/즉시 복제 음성에서 **데이비 본인 목소리 전문 복제(`데이비_프로페셔널`, `eleven_v4` 학습 완료)**로 업그레이드하고, `-14.0 ~ -14.3 LUFS` 6단 마스터링 및 발음 검수 자동화를 적용했습니다."
   },
   {
-    "num": "69",
-    "lessonId": "71",
+    "challengeId": 71,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/71",
     "title": "유튜브 자동화 4",
-    "href": "https://ssapable.com/learn/ai-agent/71",
     "mdFile": "69강_영상작업실_편의기능_개선내역.md",
-    "comment": "사용자 편의를 개선한 나만의 '영상 작업실'(소재 발굴·대본 검수·TTS·장면 미리보기·품질 검사 원클릭 통합 화면) 캡처입니다.\n영상 작업실 화면 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/69강_나만의_유튜브_영상작업실_UI캡처.png\n개선 내역 문서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/69강_영상작업실_편의기능_개선내역.md"
+    "comment": "사용자 편의를 개선한 나만의 '영상 작업실'(소재 발굴·대본 검수·TTS·장면 미리보기·품질 검사 원클릭 통합 화면) 캡처입니다.\n네이버 카페 댓글 이미지 제출 완료(닉네임: 데이비): https://cafe.naver.com/aigeeclass/839\n영상 작업실 화면 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/69강_나만의_유튜브_영상작업실_UI캡처.png\n개선 내역 문서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/69강_영상작업실_편의기능_개선내역.md\n\n[정식 1기 v2 개선] **`15_데이비_영상제작_작업실`**로 고도화하여 12대 고조회수 레퍼런스 스킬·모션그래픽 20선/42종·선녹화 후음성 싱크(`screen_voice_sync.py`)·업로드 전 프레임 검수 기능까지 통합했습니다."
   },
   {
-    "num": "72",
-    "lessonId": "75",
+    "challengeId": 74,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/74",
     "title": "유튜브 자동화 7",
-    "href": "https://ssapable.com/learn/ai-agent/75",
     "mdFile": "72강_샌드박스_화면녹화_소스활용_기록.md",
-    "comment": "(제출 x 챌린지 제출은 최종 영상에서 확인)\n격리된 샌드박스 환경에서 실제 에이전트 작동 화면을 녹화해 영상 소스로 삽입 완료했습니다.\n최종 영상 확인 링크: https://youtu.be/OSkdatkayZw\n작업 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/72강_샌드박스_화면녹화_소스활용_기록.md"
+    "comment": "(제출 x 챌린지 제출은 최종 영상에서 확인)\n격리된 샌드박스 환경에서 실제 에이전트 작동 화면을 녹화해 영상 소스로 삽입 완료했습니다.\n최종 영상 확인 링크: https://youtu.be/OSkdatkayZw\n작업 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/72강_샌드박스_화면녹화_소스활용_기록.md\n\n[정식 1기 v2 개선] 격리 환경 PC 화면 녹화를 `record.py`(백그라운드 자동 조작 녹화) + `screen_voice_sync.py`(`anchor_word` 기준 `+0.08s` 정밀 리타이밍)로 고도화해 09편 실전 시연 롱폼(`5분 51초`)에 적용했습니다."
   },
   {
-    "num": "74",
-    "lessonId": "77",
+    "challengeId": 76,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/76",
     "title": "이제 당신은 인생에서 유튜브 스킬을 획득습니다. 2",
-    "href": "https://ssapable.com/learn/ai-agent/77",
     "mdFile": "74강_유튜브_워크플로우_SKILL_전문.md",
-    "comment": "name: conja-youtube-shorts-v1\ndescription: \"콘자 유튜브 자동화 v1\" — 비개발자·1인 창업가 대상 AI·바이브코딩 채널 영상을 시의성 키워드 발굴(YouTube API) → 대본 작성 및 숫자/발음 검수 → AI 음성 합성(무음 압축·-14 LUFS 정규화) → 샌드박스 화면 녹화 및 모션 장면 렌더링(1080x1920 30fps) → 받아쓰기 대조 검수까지 수행하는 엔드투엔드 제작 스킬.\n\n(상단 항목 발췌본 및 검증 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/skills/youtube-shorts/SKILL.md)"
+    "comment": "name: davie-youtube-automation-v2\ndescription: \"데이비 유튜브 자동화 v1\" — 비개발자·1인 창업가 대상 AI·바이브코딩 채널 영상을 시의성 키워드 발굴(YouTube API) → 대본 작성 및 숫자/발음 검수 → AI 음성 합성(무음 압축·-14 LUFS 정규화) → 샌드박스 화면 녹화 및 모션 장면 렌더링(1080x1920 30fps) → 받아쓰기 대조 검수까지 수행하는 엔드투엔드 제작 스킬.\n\n(상단 항목 발췌본 및 검증 기록: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/skills/youtube-shorts/SKILL.md)\n\n[정식 1기 v2 개선] 스킬을 `davie-youtube-automation-v2`로 전면 개편하고, 시크릿모드 알고리즘 분석(`algorithm-analysis-v1`), `데이비_프로페셔널` 전문 보이스, PC 실전 시연 싱크, 업로드 전 프레임·음량 전수 검수를 통합했습니다."
   },
   {
-    "num": "75",
-    "lessonId": "78",
+    "challengeId": 77,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/77",
     "title": "알고리즘 학습 \" 해줘 \"",
-    "href": "https://ssapable.com/learn/ai-agent/78",
     "mdFile": "75강_썸네일학습_및_최종영상_업로드보고서.md",
-    "comment": "1) 알고리즘 인기 패턴을 학습시켜 제작·수정한 썸네일 디자인 화면 캡처: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/75강_알고리즘_썸네일_디자인_캡처.png\n2) 유튜브 채널에 업로드 완료한 최종 영상 링크: https://youtu.be/OSkdatkayZw 및 https://youtu.be/-0kHCrBp4EE\n상세 업로드 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/75강_썸네일학습_및_최종영상_업로드보고서.md"
+    "comment": "1) 알고리즘 인기 패턴을 학습시켜 제작·수정한 썸네일 디자인 화면 캡처 — 네이버 카페 댓글 이미지 제출 완료(닉네임: 데이비): https://cafe.naver.com/aigeeclass/840 (GitHub 원본: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/75강_알고리즘_썸네일_디자인_캡처.png)\n2) 유튜브 채널에 업로드 완료한 최종 영상 링크: https://youtu.be/OSkdatkayZw 및 https://youtu.be/-0kHCrBp4EE\n상세 업로드 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/75강_썸네일학습_및_최종영상_업로드보고서.md\n\n[정식 1기 v2 개선] 기존 1차 제출(Before) 대비 운영진 피드백을 반영해, 실제 PC 시연 롱폼 제작 파이프라인(`09_롱폼_AI영상_업로드전_검수`, 5분 51초 `-14.3 LUFS`)과 시크릿모드 알고리즘 기반 썸네일·후킹 개선 내역(After)을 보강했습니다."
   },
   {
-    "num": "77",
-    "lessonId": "80",
-    "title": "기업과 정부로 자동 수익 파이프라인 1개 더 만들기",
-    "href": "https://ssapable.com/learn/ai-agent/80",
-    "mdFile": "77강_B2B_기관출강_제안서_및_대상목록.md",
-    "comment": "업체명·홈페이지 주소 : 소상공인시장진흥공단 (소상공인 지식배움터) https://edu.sbiz.or.kr\n내가 제안한 강의 주제 한 줄 : 「코딩 몰라도 말로 만드는 1인 소상공인 AI 마케팅·판매 사이트·쇼츠 자동화 실전 워크숍」\n출강 제안서 전문 및 커리큘럼 구성안: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/77강_B2B_기관출강_제안서_및_대상목록.md"
+    "challengeId": 79,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/79",
+    "title": "79. 알고리즘 미리 확인하세요",
+    "mdFile": "79강_알고리즘_스킬_및_영상개선_보고서.md",
+    "comment": "1) 시크릿모드 유튜브 홈피드 기반 알고리즘 스킬 2종 구축 완료:\n- algorithm-analysis-v1: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/skills/algorithm-analysis-v1/SKILL.md\n- algorithm-topics-v1: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/skills/algorithm-topics-v1/SKILL.md\n2) algorithm-topics-v1 선정 1순위 주제로 제작·개선(Before 64점 → After 91점, 09편 PC 실전 시연 롱폼 -14.3 LUFS) 보고서 및 유튜브 링크:\n- 상세 점수화·개선 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/79강_알고리즘_스킬_및_영상개선_보고서.md\n- 유튜브 채널 및 영상 링크: https://www.youtube.com/channel/UCeY43hfmmnymy5GOeyp-sYQ / https://youtu.be/OSkdatkayZw"
   },
   {
-    "num": "78",
-    "lessonId": "81",
-    "title": "자는 동안에도 돈 받을 준비",
-    "href": "https://ssapable.com/learn/ai-agent/81",
-    "mdFile": "78강_경쟁사분석_및_상세페이지_개선내역.md",
-    "comment": "경쟁사 상세페이지 전환 구조를 분석하고, 실시간 작동 애니메이션 WebP와 내 비즈니스 데이터를 반영해 개선한 상세페이지 링크입니다.\n개선한 상세페이지 링크 1: https://conjatube.gowith153.com\n개선한 상세페이지 링크 2: https://conja-starter.pages.dev\n애니메이션 WebP 및 상세페이지 개선 분석서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/78강_경쟁사분석_및_상세페이지_개선내역.md"
+    "challengeId": 81,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/81",
+    "title": "81. 나를 팔기 위한 세팅",
+    "mdFile": "81강_유튜브_API_3대장_연동결과.md",
+    "comment": "Google Cloud Console 유튜브 API 3대장(Data API v3 / Analytics API / Reporting API) 연결 및 조회 결과 제출합니다.\n1) Data API v3: 채널명 '데이비' (채널 ID: UCeY43hfmmnymy5GOeyp-sYQ, 신규 리브랜딩 채널 초기 세팅 연동 완료)\n2) Analytics API: 최근 28일(2026-10-25~2026-11-22) 일별 조회수·시청시간·평균 시청지속시간 지표 쿼리 연동 완료\n3) Reporting API 사용 가능 리포트 타입 목록: channel_basic_a2, channel_combined_a2, channel_demographics_a1, channel_traffic_source_a2, channel_playback_location_a2, channel_device_os_a2, channel_province_a2, channel_cards_a1, channel_end_screens_a1, channel_subtitles_a2, channel_sharing_service_a1, playlist_basic_a1, playlist_combined_a1\n상세 연동 명세 및 결과 문서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/81강_유튜브_API_3대장_연동결과.md"
+  },
+  {
+    "challengeId": 82,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/82",
+    "title": "82. 나를 더 잘 팔려면?",
+    "mdFile": "82강_단가표_협업메일_인보이스_세팅.md",
+    "comment": "1) 협업 비즈니스 이메일 연결 채널 URL: https://www.instagram.com/david153.official (스레드: https://www.threads.com/@david153.official / 유튜브: https://www.youtube.com/channel/UCeY43hfmmnymy5GOeyp-sYQ)\n2) 데이터 기반 데이비 협업 단가표(롱폼 단독 150만 / 중간 PPL 80만 / 숏폼·릴스 70만 / 2차 활용권) 및 aipossiblee@gmail.com 역제안 협상 메일 문구 작성 완료\n3) VPS + 텔레그램 봇 실시간 협업 메일 분류·승인 파이프라인 설계 완료\n4) PayPal Invoicing API v2 연동 및 테스트 인보이스 명세 정리 완료\n단가표·역제안 메일 전문 및 인보이스 API 세팅 문서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/82강_단가표_협업메일_인보이스_세팅.md"
+  },
+  {
+    "challengeId": 83,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/83",
+    "title": "83. 내 뇌를 클로드에게 학습시켜주세요",
+    "mdFile": "83강_브랜드_협업_시놉시스.md",
+    "comment": "클로드에게 브랜드 브리프와 데이비 브랜드 규칙(brand/AGENTS.md)을 학습시켜 작성한 유튜브 협업 영상 시놉시스(제목·썸네일 전략, 6분 5단 타임라인, PC 실전 시연 구성, CTA) 제출합니다.\n시놉시스 전문 공유 링크: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/83강_브랜드_협업_시놉시스.md"
+  },
+  {
+    "challengeId": 84,
+    "href": "https://ssapable.com/learn/ai-agent-challenge/84",
+    "title": "84. 브랜드에게 돈 받는 파이프라인 만들기 1",
+    "mdFile": "84강_브랜드_콘텐츠_기획_및_영상제작_보고서.md",
+    "comment": "83강 시놉시스에 데이비 관점(해부 → 직접 재현, 얼굴 없는 PC 실전 시연, 09편 5분 51초 -14.3 LUFS 마스터링)을 결합해 콘텐츠 기획 및 영상 제작을 완료했습니다.\n유튜브 채널 및 영상 링크: https://youtu.be/OSkdatkayZw / https://youtu.be/-0kHCrBp4EE (채널: https://www.youtube.com/channel/UCeY43hfmmnymy5GOeyp-sYQ)\n콘텐츠 기획·제작 보고서: https://github.com/angibeom0985-arch/ssapable-challenge/blob/main/84강_브랜드_콘텐츠_기획_및_영상제작_보고서.md"
   }
 ]
