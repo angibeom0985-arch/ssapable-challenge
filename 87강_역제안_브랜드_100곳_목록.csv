@@ -1,0 +1,101 @@
+﻿번호,등급,브랜드명,카테고리,공식URL,맞춤 협업 콘텐츠 아이디어
+1,A,Anthropic (Claude),AI 코딩·에이전트,https://www.anthropic.com,비개발자 클로드 코드 실전 워크플로우 시연
+2,A,OpenAI (ChatGPT / Codex),AI 코딩·에이전트,https://openai.com,코덱스·GPT 기반 사이트·자동화 구축 실증
+3,A,ElevenLabs,AI 음성·더빙,https://elevenlabs.io,한국어 전문 보이스 복제 및 -14 LUFS 유튜브 마스터링
+4,A,Cursor,AI 코드 에디터,https://www.cursor.com,비개발자 1인 SaaS 제작 실전 시연
+5,A,Cloudflare,웹 호스팅·DB,https://www.cloudflare.com,Pages·Workers·D1으로 월 0원 자사몰 배포
+6,A,Supabase,클라우드 DB·RAG,https://supabase.com,에이전트 장기 기억·벡터 DB 연동 실전 가이드
+7,A,Make (Integromat),노코드 자동화,https://www.make.com,콘텐츠 발행·알림 무인화 워크플로우 비교
+8,A,n8n,워크플로우 자동화,https://n8n.io,자체 호스팅 VPS 기반 AI 에이전트 자동화
+9,A,CapCut,영상 편집,https://www.capcut.com,AI 자막·컷편집과 자동화 파이프라인 비교
+10,A,Higgsfield AI,AI 영상 생성,https://higgsfield.ai,AI 캐릭터·모션 영상으로 숏폼 제작 실전
+11,A,Kling AI,AI 영상 생성,https://klingai.com,스토리보드 기반 AI 클립 고퀄리티 생성 비교
+12,A,HeyGen,AI 아바타·더빙,https://www.heygen.com,얼굴 촬영 없이 다국어 아바타 릴스 제작
+13,B,Vercel,웹 배포 플랫폼,https://vercel.com,Next.js 랜딩페이지 원클릭 배포 및 미리보기
+14,B,GitHub,코드·협업 플랫폼,https://github.com,스킬·규칙 파일 버전 관리 및 액션 자동화
+15,B,Notion,생산성·문서,https://www.notion.so,콘텐츠 기획 DB와 AI 에이전트 브리핑 연동
+16,B,Framer,노코드 웹사이트,https://www.framer.com,고전환 상세페이지·랜딩페이지 빠르게 제작
+17,B,Linear,프로젝트 관리,https://linear.app,1인 창업가 작업 보드 및 이슈 자동화
+18,B,Raycast,생산성 런처,https://www.raycast.com,단축키 하나로 AI 프롬프트·스니펫 즉시 실행
+19,B,Runway,AI 영상 편집,https://runwayml.com,영상 소스 보정 및 AI B-roll 생성 워크플로우
+20,B,Midjourney,AI 이미지 생성,https://www.midjourney.com,일관된 썸네일·캐릭터 스타일 시트 제작
+21,B,Perplexity,AI 리서치,https://www.perplexity.ai,유튜브 팩트체크 및 시의성 키워드 리서치
+22,B,Descript,AI 영상·오디오 편집,https://www.descript.com,텍스트 기반 컷편집과 무음 제거 비교
+23,B,OpusClip,롱투숏 AI,https://www.opus.pro,롱폼에서 고조회수 쇼츠 자동 추출 실측
+24,B,Vrew,AI 자막·영상,https://vrew.ai,한국어 자막·음성 편집 자동화 비교
+25,B,Typecast,AI 보이스,https://typecast.ai,한국어 감정 TTS와 보이스 클로닝 비교
+26,B,Supertone,AI 음성 합성,https://www.supertone.ai,실시간 보이스 변환 및 내레이션 품질 테스트
+27,B,Wrtn (뤼튼),국내 AI 플랫폼,https://wrtn.ai,한국어 콘텐츠 기획·카피라이팅 실전 활용
+28,B,Liner,AI 리서치·검색,https://getliner.com,근거 출처 기반 대본 리서치 자동화
+29,B,LilysAI,영상 요약 AI,https://lilys.ai,해외 롱폼 레퍼런스 5분 구조 해부 워크플로우
+30,B,Toss Payments,국내 결제 PG,https://www.tosspayments.com,1인 자사몰 결제·웹훅 연동 실전 가이드
+31,B,PortOne,통합 결제 솔루션,https://portone.io,국내외 다중 PG 원스톱 결제 연동
+32,B,Stripe,글로벌 결제,https://stripe.com,글로벌 마이크로 SaaS 구독 결제 구축
+33,B,Lemon Squeezy,글로벌 MoR 결제,https://www.lemonsqueezy.com,해외 디지털 상품 세금·결제 원클릭 처리
+34,B,Paddle,글로벌 SaaS 결제,https://www.paddle.com,글로벌 SaaS 빌링·인보이스 자동화
+35,B,PayPal,글로벌 인보이스,https://www.paypal.com,해외 브랜드 협찬 인보이스 API 자동 발행
+36,B,Zapier,노코드 자동화,https://zapier.com,이메일·시트·슬랙 초간단 업무 자동화
+37,B,Airtable,노코드 DB,https://www.airtable.com,콘텐츠 캘린더·협업 브랜드 CRM 구축
+38,B,Figma,UI/UX 디자인,https://www.figma.com,디자인 토큰 추출 및 바이브코딩 UI 연동
+39,B,Canva,디자인·썸네일,https://www.canva.com,인스타 캐러셀·유튜브 썸네일 템플릿 자동화
+40,B,Miricanvas (미리캔버스),국내 디자인 툴,https://www.miricanvas.com,한국형 카드뉴스·상세페이지 빠르게 제작
+41,B,vidIQ,유튜브 분석,https://vidiq.com,유튜브 키워드·CTR 데이터와 AI 스킬 결합
+42,B,TubeBuddy,유튜브 최적화,https://www.tubebuddy.com,썸네일 A/B 테스트 및 태그 최적화 실증
+43,B,Windsurf (Codeium),AI IDE,https://windsurf.com,AI 에이전트 코딩 IDE 3종 실전 비교
+44,B,Replit,클라우드 바이브코딩,https://replit.com,브라우저만으로 웹앱 만들고 즉시 배포
+45,B,Lovable,AI 웹앱 빌더,https://lovable.dev,프롬프트로 MVP 랜딩·대시보드 제작 비교
+46,B,Bolt.new,AI 풀스택 빌더,https://bolt.new,10분 만에 인터랙티브 도구 프로토타입 제작
+47,B,v0 by Vercel,AI UI 생성,https://v0.dev,컴포넌트 시안 생성 및 디자인 퀄리티 고도화
+48,B,Oracle Cloud (OCI),무료 VPS 서버,https://www.oracle.com/cloud,24시간 무인 AI 봇·텔레그램 알림 서버 구축
+49,B,Vultr,클라우드 VPS,https://www.vultr.com,초저가 VPS로 자동화 워커 상시 운영
+50,B,DigitalOcean,클라우드 서버,https://www.digitalocean.com,간편한 Docker·자동화 봇 배포 가이드
+51,C,Railway,앱 호스팅,https://railway.app,깃허브 푸시만으로 백엔드 워커 자동 배포
+52,C,Render,클라우드 호스팅,https://render.com,크론잡·웹서비스 무중단 배포 테스트
+53,C,Resend,개발자 이메일 API,https://resend.com,구매 확인·협업 자동 응답 메일 발송 연동
+54,C,Stibee (스티비),뉴스레터·이메일,https://stibee.com,무료 자료 리드 수집 후 뉴스레터 자동 발송
+55,C,ManyChat,인스타 DM 자동화,https://manychat.com,릴스 댓글 키워드 자동 DM 전환 퍼널
+56,C,Buffer,SNS 예약 발행,https://buffer.com,멀티 SNS 예약 발행과 자체 API 봇 비교
+57,C,Metricool,SNS 성과 분석,https://metricool.com,인스타·유튜브·스레드 통합 리포트 자동화
+58,C,Loom,화면 녹화,https://www.loom.com,클라이언트 제안·피드백 비동기 영상 공유
+59,C,Screen Studio,고퀄 화면 녹화,https://www.screen.studio,자동 줌인·커서 효과로 SaaS 데모 영상 제작
+60,C,OBS Studio,화면 녹화·송출,https://obsproject.com,무료 고화질 PC 시연 녹화 세팅 가이드
+61,C,Adobe Premiere Pro,전문 영상 편집,https://www.adobe.com/products/premiere.html,프리셋·자동화 워크플로우 결합 속도 비교
+62,C,DaVinci Resolve,영상 편집·색보정,https://www.blackmagicdesign.com,무료 전문 편집 툴과 스크립트 자동화
+63,C,Suno,AI 음악 생성,https://suno.com,저작권 안전한 유튜브 전용 BGM 제작
+64,C,Udio,AI 음원 생성,https://www.udio.com,장면별 무드 맞춤 인트로·아웃트로 음악 제작
+65,C,Epidemic Sound,유튜브 BGM,https://www.epidemicsound.com,수익창출 안전한 BGM·효과음 라이브러리
+66,C,Artlist,영상 음원·스톡,https://artlist.io,유튜브·릴스 모션그래픽용 효과음 패키지
+67,C,Luma Dream Machine,AI 영상 생성,https://lumalabs.ai,제품 3D 회전·시네마틱 컷 생성 테스트
+68,C,Pika,AI 영상 효과,https://pika.art,숏폼 후킹용 특수효과 클립 제작
+69,C,Hailuo AI (MiniMax),AI 영상 생성,https://hailuoai.video,자연스러운 인물·장면 AI 영상 비교
+70,C,Freepik Pikaso,AI 디자인·스톡,https://www.freepik.com,썸네일·아이콘·AI 이미지 올인원 소스
+71,C,Gamma,AI 프레젠테이션,https://gamma.app,B2B 출강·협업 제안서 슬라이드 3분 완성
+72,C,Napkin AI,AI 다이어그램,https://www.napkin.ai,대본 개념을 인포그래픽 도표로 즉시 변환
+73,C,Miro,협업 화이트보드,https://miro.com,에이전트 아키텍처·퍼널 구조 시각화
+74,C,Whimsical,플로우차트,https://whimsical.com,자동화 파이프라인 설계도 제작
+75,C,Obsidian,지식 관리(PKM),https://obsidian.md,로컬 마크다운 지식베이스와 클로드 코드 연결
+76,C,Readwise,독서·노트 정리,https://readwise.io,읽은 책 하이라이트를 콘텐츠 소재로 자동 변환
+77,C,Slack,팀 메신저·알림,https://slack.com,자동화 봇 상태·결제 알림 웹훅 연동
+78,C,Telegram,봇·모바일 관제,https://telegram.org,원격 AI 에이전트 승인·실행 봇 구축
+79,C,Discord,커뮤니티·웹훅,https://discord.com,수강생·유저 커뮤니티 자동 알림 봇
+80,C,Channel.io (채널톡),고객 상담·CRM,https://channel.io,자사몰 고객 문의 응대와 RAG 챗봇 연동
+81,C,Inflearn (인프런),지식 공유 플랫폼,https://www.inflearn.com,AI 자동화 실전 온라인 강의 유통
+82,C,Class101,온라인 클래스,https://class101.net,크리에이터 지식 상품 멀티 채널 확장
+83,C,Fastcampus (패스트캠퍼스),실무 교육,https://fastcampus.co.kr,기업·직장인 대상 AI 자동화 커리큘럼 협업
+84,C,Kmong (크몽),프리랜서·전자책,https://kmong.com,초기 외주·전자책 레퍼런스 확보 전략
+85,C,Soomgo (숨고),서비스 매칭,https://soomgo.com,소상공인 업무 자동화 컨설팅 리드 발굴
+86,C,Wishket (위시캣),IT 외주 플랫폼,https://www.wishket.com,바이브코딩 프로젝트 견적 시세 산출 활용
+87,C,UptimeRobot,서버 모니터링,https://uptimerobot.com,자사몰 5분 주기 무중단 장애 감지 알림
+88,C,Sentry,에러 모니터링,https://sentry.io,운영 중 웹서비스 오류 실시간 추적·자동 수정
+89,C,PostHog,프로덕트 분석,https://posthog.com,랜딩페이지 클릭·이탈 히트맵과 전환 개선
+90,C,Google Analytics 4,트래픽 분석,https://analytics.google.com,콘텐츠 유입별 UTM 전환 성과 측정
+91,C,Apify,웹 스크래핑·데이터,https://apify.com,해외 SNS·레퍼런스 트렌드 데이터 자동 수집
+92,C,Firecrawl,AI 웹 크롤러,https://www.firecrawl.dev,웹페이지를 마크다운으로 추출해 AI 학습 투입
+93,C,Tavily,AI 검색 API,https://tavily.com,에이전트 실시간 최신 정보 팩트체크 연동
+94,C,Exa,시맨틱 검색 API,https://exa.ai,레퍼런스·경쟁사 리서치 자동화
+95,C,Langfuse,LLM 관측·평가,https://langfuse.com,프롬프트 비용·품질 평가 루프 구축
+96,C,Pinecone,벡터 데이터베이스,https://www.pinecone.io,대용량 브랜드·상품 지식 RAG 검색
+97,C,OpenRouter,멀티 LLM 게이트웨이,https://openrouter.ai,모델별 비용 최적화 및 장애 폴백 구성
+98,C,Groq,초고속 추론 API,https://groq.com,실시간 Whisper 음성 받아쓰기·저지연 처리
+99,C,DeepL,AI 번역,https://www.deepl.com,해외 레퍼런스·영문 제안서 자연스러운 번역
+100,C,Calendly,미팅 예약 자동화,https://calendly.com,브랜드 협업·외주 상담 일정 자동 조율
